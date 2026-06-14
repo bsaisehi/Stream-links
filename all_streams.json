@@ -12,16 +12,16 @@
         "name": "Hindi",
         "Bearer": null,
         "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
-        "k1": "9727111f7dbb3b089d30d2fba45355b5",
-        "k2": "088f98f746f1b474f12cdf05c6a7b91a"
+        "k1": "ee4a1fb5724d964ab540c3d9ddce98e1",
+        "k2": "1b56da7481975507ab506a970c419b8d"
     },
     "u": {
         "id": "u",
         "name": "English ",
         "Bearer": null,
         "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
-        "k1": "017376fd4d350ab1bd94d6da29100bfd",
-        "k2": "3d2d50661fc9d5039d983ec20eb7b142"
+        "k1": "e2d998ab1361a95bdb70f10e75ff51a1",
+        "k2": "e680b004bd19c96f759c69dc4993603c"
     },
     "fs1": {
         "id": "fs1",
@@ -31,9 +31,33 @@
         "k1": "c620c93c60c04999eb9ddc28ecfb70a8",
         "k2": "e76a709c251313190e76cb3c3d3a5824"
     },
+    "cazeios": {
+        "id": "cazeios",
+        "name": "Caze TV iOS",
+        "Bearer": null,
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+        "k1": null,
+        "k2": null
+    },
+    "unite8sports1hd": {
+        "id": "unite8sports1hd",
+        "name": "English Unite8 Sports 1HD",
+        "Bearer": null,
+        "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+        "k1": "e2d998ab1361a95bdb70f10e75ff51a1",
+        "k2": "e680b004bd19c96f759c69dc4993603c"
+    },
+    "unite8sports2hd": {
+        "id": "unite8sports2hd",
+        "name": "HINDI Unite8 Sports 2HD",
+        "Bearer": null,
+        "url": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
+        "k1": "ee4a1fb5724d964ab540c3d9ddce98e1",
+        "k2": "1b56da7481975507ab506a970c419b8d"
+    },
     "fifa26": {
         "success": true,
-        "generated_at": "2026-06-14T15:24:55.894Z",
+        "generated_at": "2026-06-14T17:58:23.169Z",
         "total": 1,
         "events": [
             {
