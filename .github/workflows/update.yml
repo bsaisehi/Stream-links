@@ -1,0 +1,41 @@
+name: Auto Update Streams JSON
+
+on:
+  schedule:
+    # Yeh cron job har 30 minute mein automatic run karega
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Isse aap jab chahein button daba kar manually bhi run kar sakte hain
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Repository ka code virtual machine mein lana
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # 2. Python install karna
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    # 3. Pip se requests module install karna
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    # 4. Aapki python script run karna
+    - name: Run Script
+      run: python bot.py
+
+    # 5. Agar JSON file mein koi change hua hai, toh use save aur upload karna
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "actions@github.com"
+        git add all_streams.json
+        # Agar koi change nahi hua toh error na aaye, isliye check laga hai
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-updated streams data [$(date)]" && git push)
