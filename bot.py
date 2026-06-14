@@ -8,18 +8,29 @@ USER_AGENT = "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML
 SOURCES = {
     "cricfusion": {
         "base_url": "https://newwwwapiiiiii.vercel.app/main?id=",
+        # Aapke poorane aur naye IDs ka collection
         "items": ["cazeamzn", "h", "u", "fs1"],
         "type": "individual_id",
         "headers": {
             "Referer": "https://newwwwapiiiiii.vercel.app",
-            "Origin": "https://cricfusion.pages.dev",
+            "Origin": "https://cricboost.pages.dev",
+            "User-Agent": USER_AGENT
+        }
+    },
+    "footapi_new": {
+        "base_url": "https://footapi-psi.vercel.app/main?id=",
+        # Naye targets jo aapne bataye
+        "items": ["cazeios", "unite8sports1hd", "unite8sports2hd"],
+        "type": "individual_id",
+        "headers": {
+            "Referer": "https://footapi-psi.vercel.app/",
+            "Origin": "https://footsterss.pages.dev",
             "User-Agent": USER_AGENT
         }
     },
     "fifa26": {
-        # Yeh tumhara dhoondha hua asli backend hai jo sabhi streams ek sath dega
         "base_url": "https://footballapi-delta.vercel.app/api/events?play=1",
-        "items": [None], # Isme alag se loop chalane ki need nahi hai, ek hi call me sab aayega
+        "items": [None],
         "type": "bulk_api",
         "headers": {
             "Origin": "https://fifa26-live.pages.dev",
@@ -29,7 +40,6 @@ SOURCES = {
         }
     }
 }
-
 def fetch_all():
     master_list = {}
     print("🔄 Automation started... Fetching live streams data...\n")
