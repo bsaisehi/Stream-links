@@ -33,7 +33,7 @@
     },
     "fifa26": {
         "success": true,
-        "generated_at": "2026-06-14T07:54:18.244Z",
+        "generated_at": "2026-06-14T15:24:55.894Z",
         "total": 1,
         "events": [
             {
@@ -81,6 +81,14 @@
                         "drm": {
                             "kid": "adca25b8779e4168a0cd710f59f61ccf",
                             "key": "be5383ed3cd8079f4ffe78ad067f476a"
+                        }
+                    },
+                    {
+                        "title": "TSN SPORTS ENG",
+                        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                        "drm": {
+                            "kid": "7b37e4614fcee2ec2ff6e5900c2f798f",
+                            "key": "f349a9c28c55c20b9a2c50af99d1fc76"
                         }
                     },
                     {
