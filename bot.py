@@ -9,6 +9,7 @@ SECRET_KEY = "ChaudharyPlayerPremiumKey_2026!@#"
 SOURCES = {
     "cricfusion": {
         "base_url": "https://newwwwapiiiiii.vercel.app/main?id=",
+        # Aapke poorane aur naye IDs ka collection
         "items": ["cazeamzn", "h", "u", "fs1"],
         "type": "individual_id",
         "headers": {
@@ -19,6 +20,7 @@ SOURCES = {
     },
     "footapi_new": {
         "base_url": "https://footapi-psi.vercel.app/main?id=",
+        # Naye targets jo aapne bataye
         "items": ["cazeios", "unite8sports1hd", "unite8sports2hd"],
         "type": "individual_id",
         "headers": {
@@ -62,6 +64,7 @@ def fetch_all():
         current_headers = config["headers"]
         
         for item in config["items"]:
+            # URL banana (bulk api ke liye item None hoga isliye direct url use hoga)
             target_url = config["base_url"] if item is None else f"{config['base_url']}{item}"
             
             try:
@@ -71,9 +74,12 @@ def fetch_all():
                     try:
                         data = res.json()
                         
+                        # Agar bulk list dene wali API hai (jaise FIFA26)
                         if config["type"] == "bulk_api":
                             master_list[source_name] = data
                             print(f"  ✅ Successfully fetched ALL streams at once for {source_name}!")
+                        
+                        # Agar ek ek karke ID fetch karne wali API hai (jaise Cricfusion)
                         else:
                             master_list[item] = data
                             print(f"  ✅ Successfully fetched ID: {item}")
@@ -86,6 +92,7 @@ def fetch_all():
             except Exception as e:
                 print(f"  ⚠️ Connection Error: {e}")
                 
+            # Rate limit se bachne ke liye chhota sa pause
             time.sleep(1.5)
             
         print("-" * 40)
