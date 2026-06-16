@@ -3,7 +3,7 @@ name: Auto Update Streams JSON
 on:
   schedule:
     # Yeh cron job har 30 minute mein automatic run karega
-    - cron: '*/30 * * * *'
+    - cron: '*/05 * * * *'
   workflow_dispatch: # Isse aap jab chahein button daba kar manually bhi run kar sakte hain
 
 jobs:
