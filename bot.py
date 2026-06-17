@@ -21,7 +21,7 @@ SOURCES = {
     "footapi_new": {
         "base_url": "https://footapi-psi.vercel.app/main?id=",
         # Naye targets jo aapne bataye
-        "items": ["cazeios", "unite8sports1hd", "unite8sports2hd"],
+        "items": ["cazeios", "unite8sports1hd", "unite8sports2hd", "ntv", "cazetvprime", "foxusa", "dsports", "telemundo", "m6", "fussball1", "fussball1uhd", "telemundo2", "bein1iOS"],
         "type": "individual_id",
         "headers": {
             "Referer": "https://footapi-psi.vercel.app/",
