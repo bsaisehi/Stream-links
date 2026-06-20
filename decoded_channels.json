@@ -1,1 +1,669 @@
-
+{
+    "ZS1": {
+        "ManifestURI": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+        "DRMKeys": {
+            "ef34ae91b4f2415e8439b2ad105e7488": "243248d8de1ff8c7c587ee2057317523"
+        }
+    },
+    "ZS2": {
+        "ManifestURI": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+        "DRMKeys": {
+            "3cfa8625f650406ebf6a4d1ea737f572": "0534e747c70b364aa7210e1bf3191df0"
+        }
+    },
+    "ZS3": {
+        "ManifestURI": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+        "DRMKeys": {
+            "4dbea4b5713a4aa1ae3a2544cd522fc7": "a8323ea99b2d6200a48e1bc27322d548"
+        }
+    },
+    "SSC4": {
+        "ManifestURI": "https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd",
+        "DRMKeys": {
+            "5c672f6b85a94638872d0214f7806ed4": "bf8756fbb866ee2d5c701c2289dd8de3"
+        }
+    },
+    "SSC5": {
+        "ManifestURI": "https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd",
+        "DRMKeys": {
+            "c88b512b17ab4f6cb09eb0ff4a1056ed": "adc08ee1c20a734972a55c9aebbd1888"
+        }
+    },
+    "SSCE1": {
+        "ManifestURI": "https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd",
+        "DRMKeys": {
+            "ecbc9e6fe6b145efb6658fb5cf7427f8": "03c17e28911f71221acbc0b11f900401"
+        }
+    },
+    "SSCE2": {
+        "ManifestURI": "https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd",
+        "DRMKeys": {
+            "4d89249bd4ca4ebc9e70443265f9507d": "cf074ffd2646c9c2f8513b47fa57bc30"
+        }
+    },
+    "SSCE3": {
+        "ManifestURI": "https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd",
+        "DRMKeys": {
+            "98cfd6fd4812497fb24dc75f7545f2ee": "d3006ee69e77b25939728ebf30d3180a"
+        }
+    },
+    "SSCNEWS": {
+        "ManifestURI": "https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd",
+        "DRMKeys": {
+            "3d04975236a44f62857d181597705ee6": "362133e9cb13189ad4fe095ced216f60"
+        }
+    },
+    "USAE": {
+        "ManifestURI": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd",
+        "DRMKeys": {
+            "043ba1b4a2823fc4a6033178f3560431": "684358d80874b55f9335c73126e4d44e"
+        }
+    },
+    "NBC": {
+        "ManifestURI": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+        "DRMKeys": {
+            "96b67fa09140329a89b7a1ead134eda3": "c618d32c56cdc6cad8330eb98507ca3f"
+        }
+    },
+    "FOXP": {
+        "ManifestURI": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "DRMKeys": {
+            "9f327d24c66fbd84e15ab5c9ead7c7a4": "83837185529c0c4048f81386c2d36426"
+        }
+    },
+    "FOX1": {
+        "ManifestURI": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+        "DRMKeys": {
+            "c620c93c60c04999eb9ddc28ecfb70a8": "e76a709c251313190e76cb3c3d3a5824"
+        }
+    },
+    "FOX2": {
+        "ManifestURI": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+        "DRMKeys": {
+            "8836fb04d62dc64c9f8a39ef8640d5eb": "d4f05ce56c5231b7cdf53455bea58621"
+        }
+    },
+    "FOX3": {
+        "ManifestURI": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+        "DRMKeys": {
+            "11c8c1c2ef0385cf1e64d44bb9c3a395": "5769730ffbdc4b2fd8945929d9ace063"
+        }
+    },
+    "FOXD": {
+        "ManifestURI": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "DRMKeys": {
+            "d1a163914db8ffad2c3e94f979896a0d": "9728800a3959aafdd5b0bcfbf3768811"
+        }
+    },
+    "SPO1": {
+        "ManifestURI": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
+        "DRMKeys": {
+            "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
+        }
+    },
+    "SPO2": {
+        "ManifestURI": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+        "DRMKeys": {
+            "7eea72d6075245a99ee3255603d58853": "6848ef60575579bf4d415db1032153ed"
+        }
+    },
+    "LATV": {
+        "ManifestURI": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+        "DRMKeys": {
+            "620e51b82596475517a27aa425c52280": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+        }
+    },
+    "Tnt1": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+        "DRMKeys": {
+            "d14658a0ede94debcb4013b2056ba6d1": "60838a3176127fed0eaf038a5575de11"
+        }
+    },
+    "Tnt2": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+        "DRMKeys": {
+            "0b59ce06de74ed84f2eda5e81dadba13": "48e4ba4ad6c2a60d2bda5d71a0050844"
+        }
+    },
+    "Tnt3": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+        "DRMKeys": {
+            "12413e2c2855cfc59ce0fe6b20cc71ca": "08d55a8f5fc93a9375f9b0cb2e1739ca"
+        }
+    },
+    "Tnt4": {
+        "ManifestURI": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+        "DRMKeys": {
+            "192b1115da041585c77200128549efa1": "634e10efe4abbb14be400a3ccbac0258"
+        }
+    },
+    "PM1": {
+        "ManifestURI": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "DRMKeys": {
+            "1444f4235529f183f0a5a486befe9cdb": "e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+    },
+    "PM2": {
+        "ManifestURI": "https://a205aivottlinear-a.akamaihd.net/IAD/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+        "DRMKeys": {
+            "1a5df53609ebc9857898c490f4724918": "77f62980d582ec541280796acf8b2d19"
+        }
+    },
+    "BEIN3": {
+        "ManifestURI": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "DRMKeys": {
+            "7995c724a13748ed970840a8ab5bb9b3": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+    },
+    "BEIN2": {
+        "ManifestURI": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "DRMKeys": {
+            "0b42be2664d7e811d04f3e504e0924c5": "ae24090123b8c72ac5404dc152847cb8"
+        }
+    },
+    "BEIN1": {
+        "ManifestURI": "https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+        "DRMKeys": {
+            "335dad778109954503dcbb21dc92015f": "24bfd75d436cbf73168a2a2dccd40281"
+        }
+    },
+    "CBS": {
+        "ManifestURI": "https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "DRMKeys": {
+            "d9623774ac5c8c351aafe97c5fe70267": "5164e6d05164a2d65fa8fcc962aa4861"
+        }
+    },
+    "WFC1": {
+        "ManifestURI": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "DRMKeys": {
+            "065051b99bf5cf8d9a3bde5cbde6aaf9": "214bd176832872339ce184338320f9a2"
+        }
+    },
+    "WFC2": {
+        "ManifestURI": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "DRMKeys": {
+            "7e9239c1982d984a002df3ed049d0756": "1b8a17598129a3618535c8fb05f103fe"
+        }
+    },
+    "Tsn1": {
+        "ManifestURI": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "DRMKeys": {
+            "7b37e4614fcee2ec2ff6e5900c2f798f": "f349a9c28c55c20b9a2c50af99d1fc76"
+        }
+    },
+    "Tsn2": {
+        "ManifestURI": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "DRMKeys": {
+            "daa8ea92553fd16cd6bfae2b8c582715": "4042e041b5639b79b69ae07a872eef9b"
+        }
+    },
+    "Tsn3": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+        "DRMKeys": {
+            "f5c2b30eac11be1e8cdfc9585f5fe6af": "a8198d17bf9b0da77450fbb919a38b2d"
+        }
+    },
+    "Tsn4": {
+        "ManifestURI": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+        "DRMKeys": {
+            "c4088f5f265f9de50cffd80bf89308b7": "2c4d2239d96d532b4ec2050653611003"
+        }
+    },
+    "Tsn5": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+        "DRMKeys": {
+            "e853333da2c9196ea11374634231bc45": "de2e2dbe818d78dfad07d6cd9a4c63d4"
+        }
+    },
+    "FS1": {
+        "ManifestURI": "https://a26live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "DRMKeys": {
+            "5466ebd70704bdeb657f0abf3c5ca4ef": "bdd79b72d8e48ed483aa623cc38a8a16"
+        }
+    },
+    "SPOR3": {
+        "ManifestURI": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "DRMKeys": {
+            "902e5ec0e3d05e665daa32fc23f4f59e": "7b2322a273843921a43e2c61dac7cae3"
+        }
+    },
+    "SPOR2": {
+        "ManifestURI": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+        "DRMKeys": {
+            "3de028eafb3b2caffec03be1c1c818b3": "8fbdd8a9ae6748696bb13e547bb093fc"
+        }
+    },
+    "FUBO1": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "DRMKeys": {
+            "dc69b6159a0f9f0a4e03b3ff91cbacd5": "d0dcbcd7723bc40df0bf34c9c092d51f"
+        }
+    },
+    "FUBO2": {
+        "ManifestURI": "https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+        "DRMKeys": {
+            "3dcfbec0e7146928baa55210bf2cb62f": "bc85f74f815d9be5ae1dd6defaa05135"
+        }
+    },
+    "FUBO3": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "DRMKeys": {
+            "fa5e8db5359fc7d1f15207d5de2a3ac4": "78a6c0a41972dfdba2145ae0ad4bd681"
+        }
+    },
+    "VMT2": {
+        "ManifestURI": "https://d3r8pf1u64jsoc.cloudfront.net/out/v1/efe2396f3d2d49559edb992c14909e42/index/index.m3u8",
+        "DRMKeys": {
+            "6c4ef154df2f1c07704f4ffae4005be6": "294e0a27e76c43aeb16c2b71fc201cfb"
+        }
+    },
+    "VMT3": {
+        "ManifestURI": "https://d3n2r2x6pixas4.cloudfront.net/out/v1/a089af0e820545d1bfb93405b94c9db1/index/index.m3u8",
+        "DRMKeys": {
+            "b10708238b2fe95e0080fe17c28d88fb": "1afd6317f3b44772aa2463e1ea1f7d42"
+        }
+    },
+    "NVO1": {
+        "ManifestURI": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cbcs.mpd",
+        "DRMKeys": {
+            "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+    },
+    "NVO2": {
+        "ManifestURI": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cbcs.mpd",
+        "DRMKeys": {
+            "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+    },
+    "RSL": {
+        "ManifestURI": "https://bbb.exoadash.com/TVD1403/index.mpd",
+        "DRMKeys": {
+            "294b5761cefc22d0c6312939e13d8278": "52148f1042d238849f0a7813f1da8a7b"
+        }
+    },
+    "NOPL": {
+        "ManifestURI": "https://bbb.exoadash.com/TVD6219/index.mpd",
+        "DRMKeys": {
+            "620e51b82596475517a27aa425c52280": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+        }
+    },
+    "NOST": {
+        "ManifestURI": "https://bbb.exoadash.com/TVD6220/index.mpd",
+        "DRMKeys": {
+            "620e51b82596475517a27aa425c52280": "2b9ba811e9c5aeafc8ae1b71cdca4d6a"
+        }
+    },
+    "DZN4": {
+        "ManifestURI": "https://bbb.exoadash.com/TVD1534/index.mpd",
+        "DRMKeys": {
+            "7a5135975978757b3458bb5b3b9dbf5e": "eab16719fa7727ab371bd75aeaca9229"
+        }
+    },
+    "LA1": {
+        "ManifestURI": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "DRMKeys": {
+            "fd86dde0ae3e14ff51c8fc8f248a50db": "d106ae78b0893da2e4393ece99420baa"
+        }
+    },
+    "EF1": {
+        "ManifestURI": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+        "DRMKeys": {
+            "ae7f16191e2adfaacd9b536ed58a298a": "3319b3ca5cd6f0af2f3d4bd9a7630a8b"
+        }
+    },
+    "CAZE1": {
+        "ManifestURI": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "DRMKeys": {
+            "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
+        }
+    },
+    "ES3": {
+        "ManifestURI": "https://bbb.exoadash.com/TVD6412/index.mpd",
+        "DRMKeys": {
+            "e853333da2c9196ea11374634231bc45": "de2e2dbe818d78dfad07d6cd9a4c63d4"
+        }
+    },
+    "UC": {
+        "ManifestURI": "https://sps3-fast-mpd.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
+        "DRMKeys": {
+            "117c29396ec6fd295880013241a466e1": "3dfb883251884e66d784111877c44b13"
+        }
+    },
+    "CSE": {
+        "ManifestURI": "https://bbb.exoadash.com/TVD4071/index.mpd",
+        "DRMKeys": {
+            "294b5761cefc22d0c6312939e13d8278": "52148f1042d238849f0a7813f1da8a7b"
+        }
+    },
+    "ITALIA": {
+        "ManifestURI": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+        "DRMKeys": {
+            "00f9f3c0783536b8ee91704e23b78016": "bfd04d6f544c9cc4d35cb13ab6778587"
+        }
+    },
+    "SS1": {
+        "ManifestURI": "https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd",
+        "DRMKeys": {
+            "8ab2332442854e62b0018eec3ee58484": "37fdee8b6eef5c96001e8c6fc47bfc08"
+        }
+    },
+    "SS2": {
+        "ManifestURI": "https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561504/index.mpd",
+        "DRMKeys": {
+            "9552bcbabfbd4ac19744422143bfb875": "e6daacaced7eba147d2b667441060a4f"
+        }
+    },
+    "CZ1": {
+        "ManifestURI": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "DRMKeys": {
+            "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+    },
+    "CZ2": {
+        "ManifestURI": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+        "DRMKeys": {
+            "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+    },
+    "LG1": {
+        "ManifestURI": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd",
+        "DRMKeys": {
+            "00f9f3c0783536b8ce4a30a01a52e082": "e926f7d45af4f7d154c990eae6a2d937"
+        }
+    },
+    "TELE": {
+        "ManifestURI": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "DRMKeys": {
+            "ce7ab3022e753307997f58afe001bac4": "72d631a66e635c60829a0fe7705516c1"
+        }
+    },
+    "OL4": {
+        "ManifestURI": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd",
+        "DRMKeys": {
+            "0000000000000000000000000065340a": "88a5d26b2dc54896693dea815df7c592"
+        }
+    },
+    "A1": {
+        "ManifestURI": "https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "DRMKeys": {
+            "fd86dde0ae3e14ff51c8fc8f248a50db": "d106ae78b0893da2e4393ece99420baa"
+        }
+    },
+    "C4U": {
+        "ManifestURI": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd",
+        "DRMKeys": {
+            "0000000000000000000000000034730a": "19bfb83e0e0f40f6eef4eccedbfa7bb8"
+        }
+    },
+    "GO31": {
+        "ManifestURI": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+        "DRMKeys": {
+            "f48a8131e05f4d6e84de19f086c781a6": "fd28f2f966a906f4d4dcfd72ae90094e"
+        }
+    },
+    "ZDF": {
+        "ManifestURI": "https://fl-003.live.p7s1video.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd",
+        "DRMKeys": {
+            "7fc352fa54683accf20b12f679027661": "993400c4b5ad851c8d6368417d6a3b4c"
+        }
+    },
+    "ES1": {
+        "ManifestURI": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+        "DRMKeys": {
+            "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+    },
+    "ES2": {
+        "ManifestURI": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+        "DRMKeys": {
+            "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+        }
+    },
+    "CAZE2": {
+        "ManifestURI": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+        "DRMKeys": {
+            "9752ef72590ef441ffa3731e0486fbc0": "db63ec7b9f11348b7cc6808a54c99457"
+        }
+    },
+    "TntGo": {
+        "ManifestURI": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
+        "DRMKeys": {
+            "dca8597f12f8d6928b55c1291c7bb300": "36c8b3f51d474b95f0adad70899343e1"
+        }
+    },
+    "SDF": {
+        "ManifestURI": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "DRMKeys": {
+            "0ad4080cdff8c60b1233b22087f0b340": "285f129c5eca01dd08a5d5a14ad801c8"
+        }
+    },
+    "UF1": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "DRMKeys": {
+            "fa5e8db5359fc7d1f15207d5de2a3ac4": "78a6c0a41972dfdba2145ae0ad4bd681"
+        }
+    },
+    "DS": {
+        "ManifestURI": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "DRMKeys": {
+            "f8b207c10f3f76aeba32a360ec52b9e4": "afad49d20eb39670e93e371c1d669921"
+        }
+    },
+    "UTV1": {
+        "ManifestURI": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+        "DRMKeys": {
+            "10e2114398744f3880cc96653568da55": "d6d40441f9fbebea03ec64c4aea7211f"
+        }
+    },
+    "UTV2": {
+        "ManifestURI": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa2)/master.mpd",
+        "DRMKeys": {
+            "60a3773de4054a9680d6ca2277870a97": "0ed58cdb97aaa8efba47b865ea7e8958"
+        }
+    },
+    "UTV3": {
+        "ManifestURI": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa3)/master.mpd",
+        "DRMKeys": {
+            "f88c0e6ef2de4f92b7ce07e50cb2d937": "7aff86770a0f0ac16b91a372e148a8bd"
+        }
+    },
+    "CAZE": {
+        "ManifestURI": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+        "DRMKeys": {
+            "1223d5105392cabf1bb9c2c1fdf6539a": "340b409f4b8f78a343e0363a7938df38"
+        }
+    },
+    "ADS1": {
+        "ManifestURI": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+        "DRMKeys": {
+            "e78769d87a41e15036a4fb8bfdf1371e": "37be0375dc9fe544c3c6de6a105f7c0a"
+        }
+    },
+    "M6": {
+        "ManifestURI": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "DRMKeys": {
+            "433ffba670963e70857859a9dff4be04": "51ede3a821229fe81e71282c8eff80e3"
+        }
+    },
+    "NTV": {
+        "ManifestURI": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
+        "DRMKeys": {
+            "4fef00332d7e4fbc8f7005dfbf851a59": "a6368c181358f3e527411a6c452c6a1a"
+        }
+    },
+    "HS": {
+        "ManifestURI": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+        "DRMKeys": {
+            "220d8978f3fd45b696137c5b94f7a264": "7bfe13500edee4f837ec03a907896306"
+        }
+    },
+    "VIX": {
+        "ManifestURI": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+        "DRMKeys": {
+            "1710ac2bbfcd3032d0f6533850968f47": "d2548dacc8efcd1cd0af0373060c82dc"
+        }
+    },
+    "TIPIK": {
+        "ManifestURI": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "DRMKeys": {
+            "adca25b8779e4168a0cd710f59f61ccf": "be5383ed3cd8079f4ffe78ad067f476a"
+        }
+    },
+    "ORF1": {
+        "ManifestURI": "https://at-live-3.tentcdn.eu/bpk-tv/ORF_eins_HD/default/index.mpd",
+        "DRMKeys": {
+            "2033fdbd4f425ca28071766a4e2aad17": "2b7032f0eb780937a7d1f233afef65dd",
+            "4b5939bb131e56dcae7cadd84de392dd": "c1cad390f773698ba400b7e8f7c9e4ab"
+        }
+    },
+    "SPZA": {
+        "ManifestURI": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+        "DRMKeys": {
+            "893bc63340876605f52886a42e0ccce5": "d6c46d2d691056fbd091bf1f01b21a91"
+        }
+    },
+    "FOX": {
+        "ManifestURI": "https://a26live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "DRMKeys": {
+            "f6564ec2aee819046328a0e153be574d": "ff46a8a1031eb27ef22576a077c98ab7"
+        }
+    },
+    "SPOR1": {
+        "ManifestURI": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "DRMKeys": {
+            "4bbcff3289d457b4dd5dbdd21221de9a": "c4906b9a9f8dda3c0725bddb8c497733"
+        }
+    },
+    "FOX4K": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "DRMKeys": {
+            "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
+        }
+    },
+    "CTV": {
+        "ManifestURI": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+        "DRMKeys": {
+            "d185684e2330de5bea436daa094a5e86": "014f0116154f5bf0050e03a6b0a23157"
+        }
+    },
+    "FS": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ykzl8x62g5/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
+        "DRMKeys": {
+            "996d39be9ee1c8e65d94d7bb973bdf0f": "5306cdc1e410bc6ddb2530608c42b11b"
+        }
+    },
+    "FS4K": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9crxia693u/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "DRMKeys": {
+            "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
+        }
+    },
+    "INTERMISSION": {
+        "ManifestURI": "https://abm5x5xaaaaaaaamnqoji7bfgac34.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/grfgykc72o/out/v1/3b99d95f4ec44db180e4016db60d82ea/cenc.mpd",
+        "DRMKeys": {
+            "0a23d3a4fc1747364e0c21a2628c2527": "a86b3696fd9a4710da046dcac8af0b3c"
+        }
+    },
+    "RTE": {
+        "ManifestURI": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/9217f1b8-7d77-4590-8a52-4917bcfaeed2:GRQ/manifest.mpd",
+        "DRMKeys": {
+            "d816287e21496989eae1312925a423c5": "00da00f13180e7e6cd5ce87d1c974e8d"
+        }
+    },
+    "NPL": {
+        "ManifestURI": "https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd",
+        "DRMKeys": {
+            "00f9f3c0783536b8ce4a30a01a52e082": "e926f7d45af4f7d154c990eae6a2d937"
+        }
+    },
+    "RTL": {
+        "ManifestURI": "https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd",
+        "DRMKeys": {
+            "57e48b99f3f6d4f13f5c5afdcca084ca": "29379a5e2d3405fad2f5d9cbe92586c3"
+        }
+    },
+    "SBL": {
+        "ManifestURI": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd",
+        "DRMKeys": {
+            "67905848180231a8a51a6539670d6e8d": "50cec07ba1ff5395e451ed2950d39fb2"
+        }
+    },
+    "E2": {
+        "ManifestURI": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd/default.mpd",
+        "DRMKeys": {
+            "90e2e491c850a49a5ab21bb6fa6b4d24": "4d7e33da19b971cef49e35eccdb9de0b"
+        }
+    },
+    "SE1": {
+        "ManifestURI": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd",
+        "DRMKeys": {
+            "a3636a51227fa338cdddf5892d8a621c": "1444ee3c4d08bf39454b914f797968eb"
+        }
+    },
+    "N4K": {
+        "ManifestURI": "https://nowp.wasabih.net/channel/616/master.mpd",
+        "DRMKeys": {
+            "91ba752a446148c68400d78374b178b4": "a01d7dc4edf582496b7e73d67e9e6899"
+        }
+    },
+    "SPL": {
+        "ManifestURI": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+        "DRMKeys": {
+            "ca4316630f56d6f33e9ff73b7ad211d1": "72c54e5646055f444e99bc1123919e89"
+        }
+    },
+    "USAW": {
+        "ManifestURI": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd",
+        "DRMKeys": {
+            "333962e3e1383529867a9a0e28a5e5d1": "5d3fcbed53749ee622ed0e64f31c1cbf"
+        }
+    },
+    "U1": {
+        "ManifestURI": "https://live05.msdht.app/live/87547578.m3u8",
+        "DRMKeys": {
+            "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
+        }
+    },
+    "U2": {
+        "ManifestURI": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+        "DRMKeys": {
+            "43513b13f4b542e39c9265921dfc1726": "b0b2678bcd274c37b888a6c987d502ed"
+        }
+    },
+    "FB": {
+        "ManifestURI": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+        "DRMKeys": {
+            "1cb20afcd9d979c833cfd208c7d3eeb2": "fef0c15b4a523370892edd5e4133c269"
+        }
+    },
+    "FB4K": {
+        "ManifestURI": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+        "DRMKeys": {
+            "1f09d5788fbbb03a053d03cc731f31a9": "d493d5a70c793362324638f61d1726ac"
+        }
+    },
+    "J5H": {
+        "ManifestURI": "https://iptv.jio.com/livetv/data/Sansad_TV_1_HD.mpd",
+        "DRMKeys": {
+            "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
+        }
+    },
+    "J5B": {
+        "ManifestURI": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+        "DRMKeys": {
+            "43513b13f4b542e39c9265921dfc1726": "b0b2678bcd274c37b888a6c987d502ed"
+        }
+    },
+    "UB": {
+        "ManifestURI": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
+        "DRMKeys": {
+            "48c50606538919784866f94fb46156e4": "67f809f98803869d9353555a87e636ab"
+        }
+    },
+    "UH": {
+        "ManifestURI": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+        "DRMKeys": {
+            "11cf38326a3d48548d4109b74443c035": "1019b110f76f8eb4f925cad852f18962"
+        }
+    }
+}
