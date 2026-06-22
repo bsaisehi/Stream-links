@@ -72,7 +72,7 @@
         }
     },
     "FOX1": {
-        "ManifestURI": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "DRMKeys": {
             "f6564ec2aee819046328a0e153be574d": "ff46a8a1031eb27ef22576a077c98ab7"
         }
@@ -186,7 +186,7 @@
         }
     },
     "Tsn1": {
-        "ManifestURI": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "DRMKeys": {
             "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
         }
@@ -498,9 +498,9 @@
         }
     },
     "VIX": {
-        "ManifestURI": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+        "ManifestURI": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
         "DRMKeys": {
-            "1710ac2bbfcd3032d0f6533850968f47": "d2548dacc8efcd1cd0af0373060c82dc"
+            "75074a0cbd83f5b72fb3e5c1495252a9": "a4a0df04b2d28f2160cead2ecdeb7203"
         }
     },
     "TIPIK": {
@@ -535,7 +535,7 @@
         }
     },
     "FOX4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/7ruw77zpm1/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "DRMKeys": {
             "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
         }
@@ -625,15 +625,15 @@
         }
     },
     "U1": {
-        "ManifestURI": "https://live05.apusport.com/live/24561735.m3u8",
+        "ManifestURI": "https://live05.apusport.com/live/08552895.m3u8",
         "DRMKeys": {
             "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
         }
     },
     "U2": {
-        "ManifestURI": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+        "ManifestURI": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
         "DRMKeys": {
-            "43513b13f4b542e39c9265921dfc1726": "b0b2678bcd274c37b888a6c987d502ed"
+            "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
         }
     },
     "FB": {
@@ -648,28 +648,22 @@
             "1f09d5788fbbb03a053d03cc731f31a9": "d493d5a70c793362324638f61d1726ac"
         }
     },
-    "J5H": {
-        "ManifestURI": "https://iptv.jio.com/livetv/data/Sansad_TV_1_HD.mpd",
+    "Tsn": {
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "DRMKeys": {
-            "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
+            "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
         }
     },
-    "J5B": {
-        "ManifestURI": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-        "DRMKeys": {
-            "43513b13f4b542e39c9265921dfc1726": "b0b2678bcd274c37b888a6c987d502ed"
-        }
-    },
-    "UB": {
+    "ZB": {
         "ManifestURI": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
         "DRMKeys": {
-            "455a448ec641e7814313a44882a0f5e7": "4dba077f4a6a700eeb7c9bc50fd7ae14"
+            "156df45e915859b5bcb0586c4edc8da8": "f2032a0a2ff59a2c0f2c609bf399e1d1"
         }
     },
-    "UH": {
-        "ManifestURI": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
+    "ZH": {
+        "ManifestURI": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
         "DRMKeys": {
-            "455a448ec641e7814313a44882a0f5e7": "4dba077f4a6a700eeb7c9bc50fd7ae14"
+            "b90a8e3b967f0a7505bc0e925853c62d": "def40d621397cf5fedb93884cf7eb3ef"
         }
     }
 }
