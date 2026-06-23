@@ -71,19 +71,19 @@
             "9f327d24c66fbd84e15ab5c9ead7c7a4": "83837185529c0c4048f81386c2d36426"
         }
     },
-    "FOX1": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+    "FOXM1": {
+        "ManifestURI": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
         "DRMKeys": {
-            "f6564ec2aee819046328a0e153be574d": "ff46a8a1031eb27ef22576a077c98ab7"
+            "2fbdaa3bea0d0323ae011b318d1db716": "8726ef7eaf5b9dce15fb6aa9f80bd53f"
         }
     },
-    "FOX2": {
+    "FOXM2": {
         "ManifestURI": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
         "DRMKeys": {
             "8836fb04d62dc64c9f8a39ef8640d5eb": "d4f05ce56c5231b7cdf53455bea58621"
         }
     },
-    "FOX3": {
+    "FOXM3": {
         "ManifestURI": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
         "DRMKeys": {
             "11c8c1c2ef0385cf1e64d44bb9c3a395": "5769730ffbdc4b2fd8945929d9ace063"
@@ -501,6 +501,12 @@
         "ManifestURI": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
         "DRMKeys": {
             "75074a0cbd83f5b72fb3e5c1495252a9": "a4a0df04b2d28f2160cead2ecdeb7203"
+        }
+    },
+    "FOX1": {
+        "ManifestURI": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/enc/brcuszv1in/out/v1/7832f893d9f043efbf0eabb9b33294cc/cenc.mpd",
+        "DRMKeys": {
+            "a3b68e5f2e15cfec39ee98461dfbff36": "51256ff951bd8defc4604d5b92732e75"
         }
     },
     "TIPIK": {
