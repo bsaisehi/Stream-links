@@ -541,7 +541,7 @@
         }
     },
     "FOX4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
         "DRMKeys": {
             "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
         }
@@ -637,9 +637,9 @@
         }
     },
     "U2": {
-        "ManifestURI": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "ManifestURI": "https://inproviszon.st/fox.m3u8",
         "DRMKeys": {
-            "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
+            "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
         }
     },
     "FB": {
