@@ -637,9 +637,9 @@
         }
     },
     "U2": {
-        "ManifestURI": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+        "ManifestURI": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
         "DRMKeys": {
-            "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
+            "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
         }
     },
     "FB": {
