@@ -192,9 +192,9 @@
         }
     },
     "Tsn2": {
-        "ManifestURI": "https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "DRMKeys": {
-            "daa8ea92553fd16cd6bfae2b8c582715": "4042e041b5639b79b69ae07a872eef9b"
+            "85b277daf5aae05833fe43a68f587968": "d52d7e9bc0bcd98787efd547ac91eca0"
         }
     },
     "Tsn3": {
