@@ -180,15 +180,9 @@
         }
     },
     "WFC2": {
-        "ManifestURI": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
         "DRMKeys": {
             "7e9239c1982d984a002df3ed049d0756": "1b8a17598129a3618535c8fb05f103fe"
-        }
-    },
-    "Tsn1": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "DRMKeys": {
-            "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
         }
     },
     "Tsn2": {
