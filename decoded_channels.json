@@ -541,21 +541,21 @@
         }
     },
     "FOX4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/3saxturevp/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/m5hvr8vyu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "DRMKeys": {
             "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
         }
     },
-    "FS": {
+    "FS1": {
         "ManifestURI": "https://a26live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "DRMKeys": {
             "5466ebd70704bdeb657f0abf3c5ca4ef": "bdd79b72d8e48ed483aa623cc38a8a16"
         }
     },
     "FS4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9crxia693u/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ucyzt0tvgp/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd",
         "DRMKeys": {
-            "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
+            "a6164ea0967b4bbbb51fdd6c4f83a64f": "b431d9ed821ca93df596168601ae5b00"
         }
     },
     "CTV": {
@@ -570,7 +570,7 @@
             "0a23d3a4fc1747364e0c21a2628c2527": "a86b3696fd9a4710da046dcac8af0b3c"
         }
     },
-    "FS1": {
+    "FS": {
         "ManifestURI": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
         "DRMKeys": {
             "5466ebd70704bdeb657f0abf3c5ca4ef": "bdd79b72d8e48ed483aa623cc38a8a16"
