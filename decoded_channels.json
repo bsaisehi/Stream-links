@@ -312,7 +312,7 @@
         }
     },
     "CAZE1": {
-        "ManifestURI": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
         "DRMKeys": {
             "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
         }
@@ -482,19 +482,13 @@
     "M6": {
         "ManifestURI": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
         "DRMKeys": {
-            "1c285ebc98483383b938f2aac331410c": "10accd30d969402cf0bb0fb99ad09283"
+            "0182ed7af02734ecb17a2f55eec98f99": "60346785b1095596de621031e9daf3ec"
         }
     },
     "NTV": {
         "ManifestURI": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "DRMKeys": {
             "2c338a117d434ce4bbe3569231af90f1": "a9633d901ee8a3f4f58ac314b5c5f4fb"
-        }
-    },
-    "HS": {
-        "ManifestURI": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-        "DRMKeys": {
-            "220d8978f3fd45b696137c5b94f7a264": "7bfe13500edee4f837ec03a907896306"
         }
     },
     "VIX": {
@@ -541,7 +535,7 @@
         }
     },
     "FOX4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ij9zrhnfrb/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/bmhbjlagha/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "DRMKeys": {
             "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
         }
