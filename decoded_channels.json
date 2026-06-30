@@ -624,10 +624,10 @@
             "8d3c85fa30730fdc39efc09de476415f": "8fdccd948bb2cc6d99d5305ccffebcb7"
         }
     },
-    "U2": {
-        "ManifestURI": "https://live05.meung.app/live/87547578.m3u8",
+    "RTE": {
+        "ManifestURI": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/6b0f1602-73b1-4228-8e64-fe2cec5ae9a3:BRU/manifest.mpd",
         "DRMKeys": {
-            "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
+            "d816287e21496989eae1312925a423c5": "00da00f13180e7e6cd5ce87d1c974e8d"
         }
     },
     "U3": {
