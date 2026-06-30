@@ -535,7 +535,7 @@
         }
     },
     "FOX4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/bmhbjlagha/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/zvgjfjfwae/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "DRMKeys": {
             "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
         }
@@ -618,10 +618,10 @@
             "333962e3e1383529867a9a0e28a5e5d1": "5d3fcbed53749ee622ed0e64f31c1cbf"
         }
     },
-    "U1": {
-        "ManifestURI": "https://vildid.hundredmilesperhour.uk/1782424831/153a789667274274b0f7d7de34cf5993/9ZLqlgVrFWN8-x4nHAoZYYARZdULyLiRj1WedqM1CAk/fox-usa.m3u8",
+    "NOS": {
+        "ManifestURI": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
         "DRMKeys": {
-            "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
+            "8d3c85fa30730fdc39efc09de476415f": "8fdccd948bb2cc6d99d5305ccffebcb7"
         }
     },
     "U2": {
