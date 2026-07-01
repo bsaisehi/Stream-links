@@ -535,7 +535,7 @@
         }
     },
     "FOX4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/npwizraqdr/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/vlnm7mbooo/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "DRMKeys": {
             "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
         }
@@ -630,8 +630,8 @@
             "d816287e21496989eae1312925a423c5": "00da00f13180e7e6cd5ce87d1c974e8d"
         }
     },
-    "U3": {
-        "ManifestURI": "https://live05.meung.app/live/08552895.m3u8",
+    "F4K": {
+        "ManifestURI": "https://live-aburayhan1107.telewebion.ir/ek/faratar/live/playlist.m3u8",
         "DRMKeys": {
             "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
         }
