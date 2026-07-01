@@ -541,7 +541,7 @@
         }
     },
     "FS4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/2ca3gdsj35/out/v1/40b31d7224c4457fbbd23fc02ada6e11/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qwut4prmhj/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd",
         "DRMKeys": {
             "a6164ea0967b4bbbb51fdd6c4f83a64f": "b431d9ed821ca93df596168601ae5b00"
         }
