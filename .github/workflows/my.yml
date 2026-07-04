@@ -1,4 +1,4 @@
-name: Auto Update Streams JSON
+name: New JSON
 
 on:
   schedule:
