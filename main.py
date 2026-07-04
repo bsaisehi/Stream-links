@@ -64,7 +64,7 @@ def fetch_all():
         print("-" * 40)
         
     # Final consolidated data save karna
-    with open("all_streams.json", "w") as f:
+    with open("streams.json", "w") as f:
         json.dump(master_list, f, indent=4)
         
     print(f"\n🎉 Process finished! Data successfully saved in 'all_streams.json'.")
