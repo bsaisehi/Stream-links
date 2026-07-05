@@ -444,9 +444,9 @@
             "id": "prime",
             "name": "Prime video 1080p50",
             "Bearer": null,
-            "url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/otr7qd2nzb/out/v1/88c972e29cef47709f02240b3aebcc96/cenc.mpd",
-            "k1": "0602126a87ecc60befc3d2fc37e1f029",
-            "k2": "2b8e95743b518607c177937dac77e130"
+            "url": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/miuhzspv41/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd",
+            "k1": "9f1106840b0996d072db21884983f407",
+            "k2": "772273c40b9c10b28b43b777beac27eb"
         },
         {
             "id": "4khdr",
@@ -564,7 +564,7 @@
             "id": "f1_ios1",
             "name": "AppleTV iOS",
             "Bearer": null,
-            "url": "https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-105/ukc6-i98x/chunklist.m3u8",
+            "url": "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-157/7dh0-iewo/chunklist.m3u8",
             "k1": null,
             "k2": null
         },
