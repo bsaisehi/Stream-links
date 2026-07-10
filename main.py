@@ -8,11 +8,11 @@ USER_AGENT = "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML
 SOURCES = {
     "main": {
         # Yeh tumhara dhoondha hua asli backend hai jo sabhi streams ek sath dega
-        "base_url": "https://newwwwapiiiiii.vercel.app/main?id=",
+        "base_url": "https://mainnn-zeta.vercel.app/main?id=",
         "items": [None], # Isme alag se loop chalane ki need nahi hai, ek hi call me sab aayega
         "type": "bulk_api",
         "headers": {
-            "Referer": "https://newwwwapiiiiii.vercel.app",
+            "Referer": "https://mainnn-zeta.vercel.app",
             "Origin": "https://cricpulse.pages.dev",
             "User-Agent": USER_AGENT,
             "Accept": "*/*",
