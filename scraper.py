@@ -3,7 +3,7 @@ import time
 from playwright.sync_api import sync_playwright
 
 # Aapka target URL
-TARGET_URL = "https://streamcorner.foo/stream/fifa/02e0da44-e81a-54c6-939d-12d2e579abd5"
+TARGET_URL = "https://streamcorner.foo/stream/fifa/049751c5-f092-5667-b759-0a09943d80b6"
 
 def scrape_streams():
     data = []
@@ -72,7 +72,7 @@ def scrape_streams():
         browser.close()
 
     # JSON output save karna
-    with open("streams.json", "w", encoding="utf-8") as f:
+    with open("stickers.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     
     print(f"Scraping completed! Total {len(data)} channels saved in streams.json")
