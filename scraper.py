@@ -75,7 +75,7 @@ def scrape_streams():
     with open("stickers.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     
-    print(f"Scraping completed! Total {len(data)} channels saved in streams.json")
+    print(f"Scraping completed! Total {len(data)} channels saved in stickers.json")
 
 if __name__ == "__main__":
     scrape_streams()
