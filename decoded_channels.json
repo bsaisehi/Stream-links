@@ -488,7 +488,7 @@
     "NTV": {
         "ManifestURI": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
         "DRMKeys": {
-            "2ab0f4aff3744d369d2c392f6bc9cac6": "002b69497a59a3b2fdcfe97111545155"
+            "17bb9e12c9d844bb9d032a5399d61cc5": "08c136b87678210bbac2224550f85c9e"
         }
     },
     "VIX": {
@@ -541,7 +541,7 @@
         }
     },
     "FOX4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
         "DRMKeys": {
             "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
         }
