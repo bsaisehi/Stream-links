@@ -1,12 +1,12 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 36,
+        "totalLiveEvents": 35,
         "cricketMatches": 6,
         "f1Sessions": 1,
-        "totalMpdStreams": 17,
-        "deadStreamsSkipped": 3,
-        "timestamp": "2026-07-11T21:34:28+00:00",
+        "totalMpdStreams": 11,
+        "deadStreamsSkipped": 9,
+        "timestamp": "2026-07-11T23:07:01.411Z",
         "items": [
             {
                 "eid": "e1",
@@ -20,7 +20,7 @@
                 "startTime": "2026/07/11 20:30:51 +0000",
                 "streams": [
                     {
-                        "sid": "e7s1",
+                        "sid": "e1s1",
                         "title": "WILLOW - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
                         "drm": {
@@ -30,7 +30,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e7s3",
+                        "sid": "e1s2",
                         "title": "WILLOW - ALT",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
                         "drm": {
@@ -40,7 +40,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e7s5",
+                        "sid": "e1s3",
                         "title": "WILLOW - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/x2gsqpgf9v/out/v1/171c6ca793784c919401b42f2cf2fa38/cenc-sd.mpd",
                         "drm": {
@@ -63,17 +63,7 @@
                 "startTime": "2026/07/15 10:30:32 +0000",
                 "streams": [
                     {
-                        "sid": "e8s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e8s3",
+                        "sid": "e2s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -96,7 +86,7 @@
                 "startTime": "2026/07/14 10:00:37 +0000",
                 "streams": [
                     {
-                        "sid": "e9s1",
+                        "sid": "e3s1",
                         "title": "WILLOW - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd",
                         "drm": {
@@ -119,17 +109,7 @@
                 "startTime": "2026/07/11 18:30:00 +0000",
                 "streams": [
                     {
-                        "sid": "e12s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e12s4",
+                        "sid": "e4s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -152,7 +132,7 @@
                 "startTime": "2026/07/12 10:00:27 +0000",
                 "streams": [
                     {
-                        "sid": "e13s1",
+                        "sid": "e5s1",
                         "title": "WILLOW - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
                         "drm": {
@@ -162,22 +142,12 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e13s3",
+                        "sid": "e5s2",
                         "title": "WILLOW - ALT",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
                         "drm": {
                             "kid": "1d63df11bb77a72701ae3233bdbfa1ab",
                             "key": "95598b0c96d8c75ec60041e9151c1b11"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e13s5",
-                        "title": "WILLOW HD",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                        "drm": {
-                            "kid": "290e09c837da78d5cd961978d390515c",
-                            "key": "b748836c71e6a4ca68ef5b5652db6247"
                         },
                         "statusCode": 200
                     }
@@ -195,17 +165,7 @@
                 "startTime": "2026/07/12 09:45:56 +0000",
                 "streams": [
                     {
-                        "sid": "e14s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e14s2",
+                        "sid": "e6s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -228,27 +188,7 @@
                 "startTime": "2026/07/17 11:30:40 +0000",
                 "streams": [
                     {
-                        "sid": "e7s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e7s2",
-                        "title": "TSN SPORTS - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-                        "drm": {
-                            "kid": "385ceb9714b75e0cef61254f80b31002",
-                            "key": "18dce92a2891fee68d21ede5173230f8"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e7s12",
+                        "sid": "e7s3",
                         "title": "ELEVEN SPORTS",
                         "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
                         "drm": {
@@ -258,7 +198,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e7s13",
+                        "sid": "e7s4",
                         "title": "SKY GERMAN - AQ",
                         "stream": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
                         "drm": {
