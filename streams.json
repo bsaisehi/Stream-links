@@ -1,12 +1,12 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 35,
-        "cricketMatches": 6,
+        "totalLiveEvents": 28,
+        "cricketMatches": 2,
         "f1Sessions": 1,
-        "totalMpdStreams": 11,
-        "deadStreamsSkipped": 9,
-        "timestamp": "2026-07-11T23:07:01.411Z",
+        "totalMpdStreams": 4,
+        "deadStreamsSkipped": 14,
+        "timestamp": "2026-07-12T01:41:35.139Z",
         "items": [
             {
                 "eid": "e1",
@@ -22,30 +22,10 @@
                     {
                         "sid": "e1s1",
                         "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
+                        "stream": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/lgmfiovhzf/out/v1/63bea75c73214832b3584bd0f83c867b/cenc-sd.mpd",
                         "drm": {
-                            "kid": "b3039b6143a9a6b71c7dbcc9c5fd0e28",
-                            "key": "7c54779ae1d6eb264929fb88911484bc"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e1s2",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
-                        "drm": {
-                            "kid": "b3039b6143a9a6b71c7dbcc9c5fd0e28",
-                            "key": "7c54779ae1d6eb264929fb88911484bc"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e1s3",
-                        "title": "WILLOW - LQ",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/x2gsqpgf9v/out/v1/171c6ca793784c919401b42f2cf2fa38/cenc-sd.mpd",
-                        "drm": {
-                            "kid": "60e18e2ca7de363d708d81a61a1214db",
-                            "key": "e84ed731f8423ac252ac24470967ce9f"
+                            "kid": "9e60d4b810867d218a89c5683c8f7d60",
+                            "key": "edce5730c719ad1dd27e3bebc5c86d0e"
                         },
                         "statusCode": 200
                     }
@@ -53,52 +33,6 @@
             },
             {
                 "eid": "e2",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "Bangladesh in Zimbabwe, 3 T20I Series",
-                "eventName": "Zimbabwe vs Bangladesh",
-                "match": "Zimbabwe vs Bangladesh",
-                "teamA": "Zimbabwe",
-                "teamB": "Bangladesh",
-                "startTime": "2026/07/15 10:30:32 +0000",
-                "streams": [
-                    {
-                        "sid": "e2s2",
-                        "title": "FANCODE - LQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                        "drm": {
-                            "kid": "709c812e1b4174002605df1d17d34a4c",
-                            "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e3",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "India in England, 3 ODI Series",
-                "eventName": "England vs Indiaa",
-                "match": "England vs India",
-                "teamA": "England",
-                "teamB": "India",
-                "startTime": "2026/07/14 10:00:37 +0000",
-                "streams": [
-                    {
-                        "sid": "e3s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd",
-                        "drm": {
-                            "kid": "4a63f817e48857c820181f7a22e8a1b4",
-                            "key": "e53140d61b7bb8c1697316c1ee7ddac8"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e4",
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "One Day International",
@@ -109,75 +43,19 @@
                 "startTime": "2026/07/11 18:30:00 +0000",
                 "streams": [
                     {
-                        "sid": "e4s2",
+                        "sid": "e2s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
                             "kid": "709c812e1b4174002605df1d17d34a4c",
                             "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
                         },
-                        "statusCode": 200
+                        "statusCode": 206
                     }
                 ]
             },
             {
-                "eid": "e5",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "Test International, Women",
-                "eventName": "England Women vs India Women",
-                "match": "England Women vs India Women",
-                "teamA": "England Women",
-                "teamB": "India Women",
-                "startTime": "2026/07/12 10:00:27 +0000",
-                "streams": [
-                    {
-                        "sid": "e5s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
-                        "drm": {
-                            "kid": "1d63df11bb77a72701ae3233bdbfa1ab",
-                            "key": "95598b0c96d8c75ec60041e9151c1b11"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e5s2",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
-                        "drm": {
-                            "kid": "1d63df11bb77a72701ae3233bdbfa1ab",
-                            "key": "95598b0c96d8c75ec60041e9151c1b11"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e6",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "ICC Women's Championship",
-                "eventName": "Ireland Women vs West Indies Women",
-                "match": "Ireland Women vs West Indies Women",
-                "teamA": "Ireland Women",
-                "teamB": "West Indies Women",
-                "startTime": "2026/07/12 09:45:56 +0000",
-                "streams": [
-                    {
-                        "sid": "e6s2",
-                        "title": "FANCODE - LQ",
-                        "stream": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-                        "drm": {
-                            "kid": "709c812e1b4174002605df1d17d34a4c",
-                            "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e7",
+                "eid": "e3",
                 "sport": "f1",
                 "eventCat": "Motorsport",
                 "eventType": "Formula 1",
@@ -188,7 +66,7 @@
                 "startTime": "2026/07/17 11:30:40 +0000",
                 "streams": [
                     {
-                        "sid": "e7s3",
+                        "sid": "e3s3",
                         "title": "ELEVEN SPORTS",
                         "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
                         "drm": {
@@ -198,7 +76,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e7s4",
+                        "sid": "e3s4",
                         "title": "SKY GERMAN - AQ",
                         "stream": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
                         "drm": {
