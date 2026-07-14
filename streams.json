@@ -1,12 +1,12 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 36,
+        "totalLiveEvents": 37,
         "cricketMatches": 4,
         "f1Sessions": 1,
-        "totalMpdStreams": 13,
-        "deadStreamsSkipped": 6,
-        "timestamp": "2026-07-12T17:46:23.671Z",
+        "totalMpdStreams": 8,
+        "deadStreamsSkipped": 9,
+        "timestamp": "2026-07-14T10:09:02.187Z",
         "items": [
             {
                 "eid": "e1",
@@ -19,16 +19,6 @@
                 "teamB": "Bangladesh",
                 "startTime": "2026/07/15 10:30:32 +0000",
                 "streams": [
-                    {
-                        "sid": "e1s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
                     {
                         "sid": "e1s2",
                         "title": "FANCODE - LQ",
@@ -45,30 +35,30 @@
                 "eid": "e2",
                 "sport": "cricket",
                 "eventCat": "Cricket",
-                "eventType": "One Day International",
-                "eventName": "West Indies vs New Zealand",
-                "match": "West Indies vs New Zealand",
-                "teamA": "West Indies",
-                "teamB": "New Zealand",
-                "startTime": "2026/07/13 18:00:36 +0000",
+                "eventType": "India in England, 3 ODI Series",
+                "eventName": "England vs Indiaa",
+                "match": "England vs India",
+                "teamA": "England",
+                "teamB": "India",
+                "startTime": "2026/07/14 10:00:37 +0000",
                 "streams": [
                     {
                         "sid": "e2s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
                         "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                            "kid": "63ff5bd50a863114f9d5fe0d18aff544",
+                            "key": "319760d139c5af680bab44664fd833ad"
                         },
                         "statusCode": 200
                     },
                     {
                         "sid": "e2s2",
-                        "title": "FANCODE - LQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
                         "drm": {
-                            "kid": "709c812e1b4174002605df1d17d34a4c",
-                            "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
+                            "kid": "63ff5bd50a863114f9d5fe0d18aff544",
+                            "key": "319760d139c5af680bab44664fd833ad"
                         },
                         "statusCode": 200
                     }
@@ -78,50 +68,40 @@
                 "eid": "e3",
                 "sport": "cricket",
                 "eventCat": "Cricket",
-                "eventType": "Test International, Women",
-                "eventName": "England Women vs India Women",
-                "match": "England Women vs India Women",
-                "teamA": "England Women",
-                "teamB": "India Women",
-                "startTime": "2026/07/13 10:00:08 +0000",
+                "eventType": "One Day International",
+                "eventName": "West Indies vs New Zealand",
+                "match": "West Indies vs New Zealand",
+                "teamA": "West Indies",
+                "teamB": "New Zealand",
+                "startTime": "2026/07/16 18:30:33 +0000",
                 "streams": [
                     {
                         "sid": "e3s1",
                         "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
                         "drm": {
-                            "kid": "9d4ac51eff0cff8f0d0da3fbdbc11b5a",
-                            "key": "a640f2050f6f0ef67cdc6e794c12070e"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e3s2",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
-                        "drm": {
-                            "kid": "9d4ac51eff0cff8f0d0da3fbdbc11b5a",
-                            "key": "a640f2050f6f0ef67cdc6e794c12070e"
+                            "kid": "7d529ea9a55b54c6f2321f946ecacd71",
+                            "key": "a990e0193f7d3556de377484b9a79c72"
                         },
                         "statusCode": 200
                     },
                     {
                         "sid": "e3s3",
-                        "title": "WILLOW HD",
-                        "stream": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
                         "drm": {
-                            "kid": "290e09c837da78d5cd961978d390515c",
-                            "key": "b748836c71e6a4ca68ef5b5652db6247"
+                            "kid": "7d529ea9a55b54c6f2321f946ecacd71",
+                            "key": "a990e0193f7d3556de377484b9a79c72"
                         },
                         "statusCode": 200
                     },
                     {
                         "sid": "e3s4",
-                        "title": "WILLOW - LQ",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ujyfvj5vk5/out/v1/0790932cd2584a4cb746b631499e4bd9/cenc-sd.mpd",
+                        "title": "FANCODE - LQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
-                            "kid": "dbb6a8643e214ddf350cd0ff2fc37362",
-                            "key": "c39b581feb8f71b5a97ed656a2776649"
+                            "kid": "709c812e1b4174002605df1d17d34a4c",
+                            "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
                         },
                         "statusCode": 200
                     }
@@ -138,16 +118,6 @@
                 "teamB": "West Indies Women",
                 "startTime": "2026/07/15 09:45:54 +0000",
                 "streams": [
-                    {
-                        "sid": "e4s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
                     {
                         "sid": "e4s2",
                         "title": "FANCODE - LQ",
@@ -171,26 +141,6 @@
                 "teamB": "Formula 1",
                 "startTime": "2026/07/17 11:30:40 +0000",
                 "streams": [
-                    {
-                        "sid": "e5s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e5s2",
-                        "title": "TSN SPORTS - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-                        "drm": {
-                            "kid": "385ceb9714b75e0cef61254f80b31002",
-                            "key": "18dce92a2891fee68d21ede5173230f8"
-                        },
-                        "statusCode": 200
-                    },
                     {
                         "sid": "e5s4",
                         "title": "SKY GERMAN - AQ",
