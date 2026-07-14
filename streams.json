@@ -4,9 +4,9 @@
         "totalLiveEvents": 37,
         "cricketMatches": 4,
         "f1Sessions": 1,
-        "totalMpdStreams": 13,
-        "deadStreamsSkipped": 4,
-        "timestamp": "2026-07-14T10:18:48.229Z",
+        "totalMpdStreams": 11,
+        "deadStreamsSkipped": 6,
+        "timestamp": "2026-07-14T17:26:16.311Z",
         "items": [
             {
                 "eid": "e1",
@@ -86,32 +86,12 @@
                 "startTime": "2026/07/16 18:30:33 +0000",
                 "streams": [
                     {
-                        "sid": "e3s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
-                        "drm": {
-                            "kid": "7d529ea9a55b54c6f2321f946ecacd71",
-                            "key": "a990e0193f7d3556de377484b9a79c72"
-                        },
-                        "statusCode": 200
-                    },
-                    {
                         "sid": "e3s2",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
                             "kid": "7e9239c1982d984a002df3ed049d0756",
                             "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e3s3",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
-                        "drm": {
-                            "kid": "7d529ea9a55b54c6f2321f946ecacd71",
-                            "key": "a990e0193f7d3556de377484b9a79c72"
                         },
                         "statusCode": 200
                     },
