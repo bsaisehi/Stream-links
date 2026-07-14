@@ -4,9 +4,9 @@
         "totalLiveEvents": 37,
         "cricketMatches": 4,
         "f1Sessions": 1,
-        "totalMpdStreams": 8,
-        "deadStreamsSkipped": 9,
-        "timestamp": "2026-07-14T10:09:02.187Z",
+        "totalMpdStreams": 13,
+        "deadStreamsSkipped": 4,
+        "timestamp": "2026-07-14T10:18:48.229Z",
         "items": [
             {
                 "eid": "e1",
@@ -19,6 +19,16 @@
                 "teamB": "Bangladesh",
                 "startTime": "2026/07/15 10:30:32 +0000",
                 "streams": [
+                    {
+                        "sid": "e1s1",
+                        "title": "FANCODE - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "drm": {
+                            "kid": "7e9239c1982d984a002df3ed049d0756",
+                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                        },
+                        "statusCode": 200
+                    },
                     {
                         "sid": "e1s2",
                         "title": "FANCODE - LQ",
@@ -86,6 +96,16 @@
                         "statusCode": 200
                     },
                     {
+                        "sid": "e3s2",
+                        "title": "FANCODE - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "drm": {
+                            "kid": "7e9239c1982d984a002df3ed049d0756",
+                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                        },
+                        "statusCode": 200
+                    },
+                    {
                         "sid": "e3s3",
                         "title": "WILLOW - ALT",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
@@ -119,6 +139,16 @@
                 "startTime": "2026/07/15 09:45:54 +0000",
                 "streams": [
                     {
+                        "sid": "e4s1",
+                        "title": "FANCODE - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "drm": {
+                            "kid": "7e9239c1982d984a002df3ed049d0756",
+                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                        },
+                        "statusCode": 200
+                    },
+                    {
                         "sid": "e4s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
@@ -141,6 +171,26 @@
                 "teamB": "Formula 1",
                 "startTime": "2026/07/17 11:30:40 +0000",
                 "streams": [
+                    {
+                        "sid": "e5s1",
+                        "title": "FANCODE - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "drm": {
+                            "kid": "7e9239c1982d984a002df3ed049d0756",
+                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e5s2",
+                        "title": "TSN SPORTS - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+                        "drm": {
+                            "kid": "385ceb9714b75e0cef61254f80b31002",
+                            "key": "18dce92a2891fee68d21ede5173230f8"
+                        },
+                        "statusCode": 200
+                    },
                     {
                         "sid": "e5s4",
                         "title": "SKY GERMAN - AQ",
