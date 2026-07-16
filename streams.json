@@ -1,48 +1,15 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 38,
-        "cricketMatches": 3,
+        "totalLiveEvents": 37,
+        "cricketMatches": 2,
         "f1Sessions": 1,
-        "totalMpdStreams": 9,
-        "deadStreamsSkipped": 7,
-        "timestamp": "2026-07-16T02:29:15.581Z",
+        "totalMpdStreams": 8,
+        "deadStreamsSkipped": 8,
+        "timestamp": "2026-07-16T10:18:28+00:00",
         "items": [
             {
                 "eid": "e1",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "Major League Cricket T20",
-                "eventName": "Major League Cricket",
-                "match": "Major League vs Major League",
-                "teamA": "Major League",
-                "teamB": "Major League",
-                "startTime": "2026/07/16 01:30:44 +0000",
-                "streams": [
-                    {
-                        "sid": "e1s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd",
-                        "drm": {
-                            "kid": "007e2e674f82de21623b314b5908693d",
-                            "key": "929841d213cb7c94e592037bac2fc67f"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e1s2",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd",
-                        "drm": {
-                            "kid": "007e2e674f82de21623b314b5908693d",
-                            "key": "929841d213cb7c94e592037bac2fc67f"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e2",
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "Bangladesh in Zimbabwe, 3 T20I Series",
@@ -53,7 +20,7 @@
                 "startTime": "2026/07/17 10:30:25 +0000",
                 "streams": [
                     {
-                        "sid": "e2s1",
+                        "sid": "e7s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -63,7 +30,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e2s2",
+                        "sid": "e7s3",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -75,7 +42,7 @@
                 ]
             },
             {
-                "eid": "e3",
+                "eid": "e2",
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "One Day International",
@@ -86,7 +53,7 @@
                 "startTime": "2026/07/16 18:30:33 +0000",
                 "streams": [
                     {
-                        "sid": "e3s2",
+                        "sid": "e9s2",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -96,7 +63,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e3s4",
+                        "sid": "e9s6",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -108,7 +75,7 @@
                 ]
             },
             {
-                "eid": "e4",
+                "eid": "e3",
                 "sport": "f1",
                 "eventCat": "Motorsport",
                 "eventType": "Formula 1",
@@ -119,7 +86,7 @@
                 "startTime": "2026/07/17 11:30:40 +0000",
                 "streams": [
                     {
-                        "sid": "e4s1",
+                        "sid": "e3s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -129,7 +96,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e4s2",
+                        "sid": "e3s2",
                         "title": "TSN SPORTS - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
                         "drm": {
@@ -139,7 +106,17 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e4s4",
+                        "sid": "e3s12",
+                        "title": "ELEVEN SPORTS",
+                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+                        "drm": {
+                            "kid": "69021095220f3c0eae9bc24215fd692b",
+                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e3s13",
                         "title": "SKY GERMAN - AQ",
                         "stream": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
                         "drm": {
