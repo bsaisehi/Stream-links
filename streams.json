@@ -4,12 +4,45 @@
         "totalLiveEvents": 38,
         "cricketMatches": 3,
         "f1Sessions": 1,
-        "totalMpdStreams": 5,
-        "deadStreamsSkipped": 12,
-        "timestamp": "2026-07-15T15:28:37.652Z",
+        "totalMpdStreams": 9,
+        "deadStreamsSkipped": 7,
+        "timestamp": "2026-07-16T02:29:15.581Z",
         "items": [
             {
                 "eid": "e1",
+                "sport": "cricket",
+                "eventCat": "Cricket",
+                "eventType": "Major League Cricket T20",
+                "eventName": "Major League Cricket",
+                "match": "Major League vs Major League",
+                "teamA": "Major League",
+                "teamB": "Major League",
+                "startTime": "2026/07/16 01:30:44 +0000",
+                "streams": [
+                    {
+                        "sid": "e1s1",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd",
+                        "drm": {
+                            "kid": "007e2e674f82de21623b314b5908693d",
+                            "key": "929841d213cb7c94e592037bac2fc67f"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e1s2",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd",
+                        "drm": {
+                            "kid": "007e2e674f82de21623b314b5908693d",
+                            "key": "929841d213cb7c94e592037bac2fc67f"
+                        },
+                        "statusCode": 200
+                    }
+                ]
+            },
+            {
+                "eid": "e2",
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "Bangladesh in Zimbabwe, 3 T20I Series",
@@ -20,7 +53,7 @@
                 "startTime": "2026/07/17 10:30:25 +0000",
                 "streams": [
                     {
-                        "sid": "e1s1",
+                        "sid": "e2s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -30,7 +63,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e1s2",
+                        "sid": "e2s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -42,7 +75,7 @@
                 ]
             },
             {
-                "eid": "e2",
+                "eid": "e3",
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "One Day International",
@@ -53,32 +86,19 @@
                 "startTime": "2026/07/16 18:30:33 +0000",
                 "streams": [
                     {
-                        "sid": "e2s4",
-                        "title": "FANCODE - LQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                        "sid": "e3s2",
+                        "title": "FANCODE - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
-                            "kid": "709c812e1b4174002605df1d17d34a4c",
-                            "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
+                            "kid": "7e9239c1982d984a002df3ed049d0756",
+                            "key": "1b8a17598129a3618535c8fb05f103fe"
                         },
                         "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e3",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "ICC Women's Championship",
-                "eventName": "Ireland Women vs West Indies Women",
-                "match": "Ireland Women vs West Indies Women",
-                "teamA": "Ireland Women",
-                "teamB": "West Indies Women",
-                "startTime": "2026/07/15 09:45:54 +0000",
-                "streams": [
+                    },
                     {
-                        "sid": "e3s2",
+                        "sid": "e3s4",
                         "title": "FANCODE - LQ",
-                        "stream": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
                             "kid": "709c812e1b4174002605df1d17d34a4c",
                             "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
@@ -98,6 +118,26 @@
                 "teamB": "Formula 1",
                 "startTime": "2026/07/17 11:30:40 +0000",
                 "streams": [
+                    {
+                        "sid": "e4s1",
+                        "title": "FANCODE - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "drm": {
+                            "kid": "7e9239c1982d984a002df3ed049d0756",
+                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e4s2",
+                        "title": "TSN SPORTS - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+                        "drm": {
+                            "kid": "385ceb9714b75e0cef61254f80b31002",
+                            "key": "18dce92a2891fee68d21ede5173230f8"
+                        },
+                        "statusCode": 200
+                    },
                     {
                         "sid": "e4s4",
                         "title": "SKY GERMAN - AQ",
