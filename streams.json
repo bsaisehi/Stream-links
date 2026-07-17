@@ -4,9 +4,9 @@
         "totalLiveEvents": 42,
         "cricketMatches": 4,
         "f1Sessions": 1,
-        "totalMpdStreams": 10,
-        "deadStreamsSkipped": 8,
-        "timestamp": "2026-07-17T11:50:05.543Z",
+        "totalMpdStreams": 11,
+        "deadStreamsSkipped": 7,
+        "timestamp": "2026-07-17T11:58:04.260Z",
         "items": [
             {
                 "eid": "e1",
@@ -168,6 +168,16 @@
                         "drm": {
                             "kid": "385ceb9714b75e0cef61254f80b31002",
                             "key": "18dce92a2891fee68d21ede5173230f8"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e5s5",
+                        "title": "SKY SPORTS - AQ",
+                        "stream": "https://dice-live-oc.akamaized.net/hdntl=exp=1784350679~acl=*dash%2flive%2f2093757%2f219028-322691%2f*!*dash%2flive%2f2093757-b%2f219028-322691-b%2f*!%2fv1%2fdashsegment%2f*~id=4ff44426-fabf-4f41-ba17-eda2146d0977~data=hdntl,dWlkPWY3RVJaWnwxNjg2YzEwNC04MTc3LTQ1OGItOWEyYi00YjA2MTE1MmI0MDEmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODQzNTA3MDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=ed93423a4fb6b9fe39117bce7ae6b26e1aeb13d6d609b4b47b15516119e52f16/dash/live/2093757/219028-322691/manifest-d.mpd",
+                        "drm": {
+                            "kid": "2e2636daa74141b68cc14882ea3ff82b",
+                            "key": "0961f48287324adbb4b7ff3c9d82b3c9"
                         },
                         "statusCode": 200
                     }
