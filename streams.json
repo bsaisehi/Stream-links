@@ -1,12 +1,12 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 40,
-        "cricketMatches": 3,
+        "totalLiveEvents": 42,
+        "cricketMatches": 4,
         "f1Sessions": 1,
         "totalMpdStreams": 10,
-        "deadStreamsSkipped": 6,
-        "timestamp": "2026-07-17T10:13:47+00:00",
+        "deadStreamsSkipped": 8,
+        "timestamp": "2026-07-17T11:50:05.543Z",
         "items": [
             {
                 "eid": "e1",
@@ -20,7 +20,7 @@
                 "startTime": "2026/07/19 01:30:59 +0000",
                 "streams": [
                     {
-                        "sid": "e6s1",
+                        "sid": "e1s1",
                         "title": "WILLOW - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qeuihkyzy3/out/v1/9ef04a16cfb04fc69c1138f56550bed6/cenc.mpd",
                         "drm": {
@@ -30,7 +30,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e6s3",
+                        "sid": "e1s2",
                         "title": "WILLOW - ALT",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qeuihkyzy3/out/v1/9ef04a16cfb04fc69c1138f56550bed6/cenc.mpd",
                         "drm": {
@@ -53,7 +53,7 @@
                 "startTime": "2026/07/17 10:30:25 +0000",
                 "streams": [
                     {
-                        "sid": "e7s1",
+                        "sid": "e2s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -63,7 +63,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e7s3",
+                        "sid": "e2s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -86,7 +86,7 @@
                 "startTime": "2026/07/19 14:00:03 +0000",
                 "streams": [
                     {
-                        "sid": "e9s2",
+                        "sid": "e3s2",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -96,7 +96,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e9s6",
+                        "sid": "e3s4",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -109,6 +109,39 @@
             },
             {
                 "eid": "e4",
+                "sport": "cricket",
+                "eventCat": "Cricket",
+                "eventType": "Women's T20 Blast",
+                "eventName": "Surrey Women vs The Blaze",
+                "match": "Surrey Women vs The Blaze",
+                "teamA": "Surrey Women",
+                "teamB": "The Blaze",
+                "startTime": "2026/07/17 10:00:00 +0000",
+                "streams": [
+                    {
+                        "sid": "e4s1",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0vew3ebksl/out/v1/709195011cde44b0a6531cba049a4b81/cenc.mpd",
+                        "drm": {
+                            "kid": "8efc5bd1b46fbad5b750c23aa68aebe0",
+                            "key": "0299a8f4b7b0a3e8b982759da11d21bc"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e4s2",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0vew3ebksl/out/v1/709195011cde44b0a6531cba049a4b81/cenc.mpd",
+                        "drm": {
+                            "kid": "8efc5bd1b46fbad5b750c23aa68aebe0",
+                            "key": "0299a8f4b7b0a3e8b982759da11d21bc"
+                        },
+                        "statusCode": 200
+                    }
+                ]
+            },
+            {
+                "eid": "e5",
                 "sport": "f1",
                 "eventCat": "Motorsport",
                 "eventType": "Formula 1",
@@ -119,7 +152,7 @@
                 "startTime": "2026/07/17 11:30:40 +0000",
                 "streams": [
                     {
-                        "sid": "e4s1",
+                        "sid": "e5s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -129,32 +162,12 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e4s2",
+                        "sid": "e5s4",
                         "title": "TSN SPORTS - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
                         "drm": {
                             "kid": "385ceb9714b75e0cef61254f80b31002",
                             "key": "18dce92a2891fee68d21ede5173230f8"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e4s12",
-                        "title": "ELEVEN SPORTS",
-                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-                        "drm": {
-                            "kid": "69021095220f3c0eae9bc24215fd692b",
-                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e4s13",
-                        "title": "SKY GERMAN - AQ",
-                        "stream": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-                        "drm": {
-                            "kid": "ae7f16191e2adfaacd9b536ed58a298a",
-                            "key": "3319b3ca5cd6f0af2f3d4bd9a7630a8b"
                         },
                         "statusCode": 200
                     }
