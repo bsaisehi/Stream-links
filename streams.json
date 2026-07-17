@@ -4,9 +4,9 @@
         "totalLiveEvents": 41,
         "cricketMatches": 4,
         "f1Sessions": 1,
-        "totalMpdStreams": 12,
-        "deadStreamsSkipped": 8,
-        "timestamp": "2026-07-17T13:42:12+00:00",
+        "totalMpdStreams": 10,
+        "deadStreamsSkipped": 10,
+        "timestamp": "2026-07-17T15:33:00.450Z",
         "items": [
             {
                 "eid": "e1",
@@ -17,10 +17,10 @@
                 "match": "Zimbabwe vs Bangladesh",
                 "teamA": "Zimbabwe",
                 "teamB": "Bangladesh",
-                "startTime": "2026/07/17 10:30:25 +0000",
+                "startTime": "2026/07/19 10:30:36 +0000",
                 "streams": [
                     {
-                        "sid": "e7s1",
+                        "sid": "e1s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -30,7 +30,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e7s3",
+                        "sid": "e1s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -53,7 +53,7 @@
                 "startTime": "2026/07/19 14:00:03 +0000",
                 "streams": [
                     {
-                        "sid": "e9s2",
+                        "sid": "e2s2",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -63,7 +63,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e9s6",
+                        "sid": "e2s4",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -86,7 +86,7 @@
                 "startTime": "2026/07/17 14:00:00 +0000",
                 "streams": [
                     {
-                        "sid": "e25s1",
+                        "sid": "e3s1",
                         "title": "WILLOW - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
                         "drm": {
@@ -96,7 +96,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e25s2",
+                        "sid": "e3s2",
                         "title": "WILLOW - ALT",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
                         "drm": {
@@ -119,7 +119,7 @@
                 "startTime": "2026/07/17 13:30:00 +0000",
                 "streams": [
                     {
-                        "sid": "e41s1",
+                        "sid": "e4s1",
                         "title": "WILLOW - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bkqfq1h7u2/out/v1/a9a7ab282acd477096de79e190bc780c/cenc.mpd",
                         "drm": {
@@ -129,7 +129,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e41s3",
+                        "sid": "e4s2",
                         "title": "WILLOW - ALT",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bkqfq1h7u2/out/v1/a9a7ab282acd477096de79e190bc780c/cenc.mpd",
                         "drm": {
@@ -162,32 +162,12 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e5s9",
-                        "title": "ELEVEN SPORTS",
-                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-                        "drm": {
-                            "kid": "69021095220f3c0eae9bc24215fd692b",
-                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e5s11",
+                        "sid": "e5s4",
                         "title": "TSN SPORTS - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
                         "drm": {
                             "kid": "385ceb9714b75e0cef61254f80b31002",
                             "key": "18dce92a2891fee68d21ede5173230f8"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e5s12",
-                        "title": "SKY SPORTS - AQ",
-                        "stream": "https://dice-live-oc.akamaized.net/hdntl=exp=1784350679~acl=*dash%2flive%2f2093757%2f219028-322691%2f*!*dash%2flive%2f2093757-b%2f219028-322691-b%2f*!%2fv1%2fdashsegment%2f*~id=4ff44426-fabf-4f41-ba17-eda2146d0977~data=hdntl,dWlkPWY3RVJaWnwxNjg2YzEwNC04MTc3LTQ1OGItOWEyYi00YjA2MTE1MmI0MDEmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODQzNTA3MDcmZWlkPTIxOTAyOCZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=ed93423a4fb6b9fe39117bce7ae6b26e1aeb13d6d609b4b47b15516119e52f16/dash/live/2093757/219028-322691/manifest-d.mpd",
-                        "drm": {
-                            "kid": "2e2636daa74141b68cc14882ea3ff82b",
-                            "key": "0961f48287324adbb4b7ff3c9d82b3c9"
                         },
                         "statusCode": 200
                     }
