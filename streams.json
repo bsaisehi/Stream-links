@@ -4,9 +4,9 @@
         "totalLiveEvents": 41,
         "cricketMatches": 4,
         "f1Sessions": 1,
-        "totalMpdStreams": 10,
-        "deadStreamsSkipped": 10,
-        "timestamp": "2026-07-17T15:33:00.450Z",
+        "totalMpdStreams": 11,
+        "deadStreamsSkipped": 9,
+        "timestamp": "2026-07-17T18:01:41+00:00",
         "items": [
             {
                 "eid": "e1",
@@ -20,7 +20,7 @@
                 "startTime": "2026/07/19 10:30:36 +0000",
                 "streams": [
                     {
-                        "sid": "e1s1",
+                        "sid": "e7s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -30,7 +30,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e1s2",
+                        "sid": "e7s3",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -53,7 +53,7 @@
                 "startTime": "2026/07/19 14:00:03 +0000",
                 "streams": [
                     {
-                        "sid": "e2s2",
+                        "sid": "e9s2",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -63,7 +63,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e2s4",
+                        "sid": "e9s6",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -86,7 +86,7 @@
                 "startTime": "2026/07/17 14:00:00 +0000",
                 "streams": [
                     {
-                        "sid": "e3s1",
+                        "sid": "e25s1",
                         "title": "WILLOW - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
                         "drm": {
@@ -96,7 +96,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e3s2",
+                        "sid": "e25s2",
                         "title": "WILLOW - ALT",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
                         "drm": {
@@ -112,29 +112,29 @@
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "Women's T20 Blast",
-                "eventName": "Hampshire Women vs Durham Women",
-                "match": "Hampshire Women vs Durham Women",
-                "teamA": "Hampshire Women",
+                "eventName": "The Blaze vs Durham Women",
+                "match": "The Blaze vs Durham Women",
+                "teamA": "The Blaze",
                 "teamB": "Durham Women",
-                "startTime": "2026/07/17 13:30:00 +0000",
+                "startTime": "2026/07/17 17:45:02 +0000",
                 "streams": [
                     {
-                        "sid": "e4s1",
+                        "sid": "e41s1",
                         "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bkqfq1h7u2/out/v1/a9a7ab282acd477096de79e190bc780c/cenc.mpd",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd",
                         "drm": {
-                            "kid": "d2eded8e44db0e42c1c5fac0265b60f6",
-                            "key": "4513301debe078fd4819d024061f1cff"
+                            "kid": "31cb90e7adf14d62c40cb7d85d37d6ac",
+                            "key": "d100b18a1937455db4ca2b3dcb5bd317"
                         },
                         "statusCode": 200
                     },
                     {
-                        "sid": "e4s2",
+                        "sid": "e41s3",
                         "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bkqfq1h7u2/out/v1/a9a7ab282acd477096de79e190bc780c/cenc.mpd",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd",
                         "drm": {
-                            "kid": "d2eded8e44db0e42c1c5fac0265b60f6",
-                            "key": "4513301debe078fd4819d024061f1cff"
+                            "kid": "31cb90e7adf14d62c40cb7d85d37d6ac",
+                            "key": "d100b18a1937455db4ca2b3dcb5bd317"
                         },
                         "statusCode": 200
                     }
@@ -153,8 +153,18 @@
                 "streams": [
                     {
                         "sid": "e5s1",
+                        "title": "TSN SPORTS - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
+                        "drm": {
+                            "kid": "66e14add60c30be992503fa9a0ae5e20",
+                            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e5s2",
                         "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "stream": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
                             "kid": "7e9239c1982d984a002df3ed049d0756",
                             "key": "1b8a17598129a3618535c8fb05f103fe"
@@ -162,12 +172,12 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e5s4",
-                        "title": "TSN SPORTS - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+                        "sid": "e5s12",
+                        "title": "ELEVEN SPORTS",
+                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
                         "drm": {
-                            "kid": "385ceb9714b75e0cef61254f80b31002",
-                            "key": "18dce92a2891fee68d21ede5173230f8"
+                            "kid": "69021095220f3c0eae9bc24215fd692b",
+                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
                         },
                         "statusCode": 200
                     }
