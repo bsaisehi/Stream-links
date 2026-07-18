@@ -6,7 +6,7 @@
         "f1Sessions": 1,
         "totalMpdStreams": 11,
         "deadStreamsSkipped": 9,
-        "timestamp": "2026-07-18T13:53:15+00:00",
+        "timestamp": "2026-07-18T14:06:54+00:00",
         "items": [
             {
                 "eid": "e1",
@@ -162,22 +162,22 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e5s9",
-                        "title": "ELEVEN SPORTS",
-                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+                        "sid": "e5s2",
+                        "title": "TSN SPORTS - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
                         "drm": {
-                            "kid": "69021095220f3c0eae9bc24215fd692b",
-                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
+                            "kid": "385ceb9714b75e0cef61254f80b31002",
+                            "key": "18dce92a2891fee68d21ede5173230f8"
                         },
                         "statusCode": 200
                     },
                     {
                         "sid": "e5s10",
-                        "title": "TSN SPORTS - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
+                        "title": "ELEVEN SPORTS",
+                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
                         "drm": {
-                            "kid": "66e14add60c30be992503fa9a0ae5e20",
-                            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
+                            "kid": "69021095220f3c0eae9bc24215fd692b",
+                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
                         },
                         "statusCode": 200
                     }
