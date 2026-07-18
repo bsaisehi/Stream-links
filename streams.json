@@ -1,12 +1,12 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 41,
-        "cricketMatches": 4,
-        "f1Sessions": 1,
-        "totalMpdStreams": 11,
-        "deadStreamsSkipped": 9,
-        "timestamp": "2026-07-17T18:01:41+00:00",
+        "totalLiveEvents": 38,
+        "cricketMatches": 2,
+        "f1Sessions": 0,
+        "totalMpdStreams": 3,
+        "deadStreamsSkipped": 13,
+        "timestamp": "2026-07-18T06:58:48.633Z",
         "items": [
             {
                 "eid": "e1",
@@ -20,7 +20,7 @@
                 "startTime": "2026/07/19 10:30:36 +0000",
                 "streams": [
                     {
-                        "sid": "e7s1",
+                        "sid": "e1s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -30,7 +30,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e7s3",
+                        "sid": "e1s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -53,131 +53,12 @@
                 "startTime": "2026/07/19 14:00:03 +0000",
                 "streams": [
                     {
-                        "sid": "e9s2",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e9s6",
+                        "sid": "e2s4",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
                             "kid": "709c812e1b4174002605df1d17d34a4c",
                             "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e3",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "Lanka Premier League",
-                "eventName": "Jaffna Kings vs Galle Gallants",
-                "match": "Jaffna Kings vs Galle Gallants",
-                "teamA": "Jaffna Kings",
-                "teamB": "Galle Gallants",
-                "startTime": "2026/07/17 14:00:00 +0000",
-                "streams": [
-                    {
-                        "sid": "e25s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
-                        "drm": {
-                            "kid": "543b86e80285d5c13b9ee30e1673964f",
-                            "key": "cc6adf6600ef70ad3282c9c719832d04"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e25s2",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
-                        "drm": {
-                            "kid": "543b86e80285d5c13b9ee30e1673964f",
-                            "key": "cc6adf6600ef70ad3282c9c719832d04"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e4",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "Women's T20 Blast",
-                "eventName": "The Blaze vs Durham Women",
-                "match": "The Blaze vs Durham Women",
-                "teamA": "The Blaze",
-                "teamB": "Durham Women",
-                "startTime": "2026/07/17 17:45:02 +0000",
-                "streams": [
-                    {
-                        "sid": "e41s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd",
-                        "drm": {
-                            "kid": "31cb90e7adf14d62c40cb7d85d37d6ac",
-                            "key": "d100b18a1937455db4ca2b3dcb5bd317"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e41s3",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd",
-                        "drm": {
-                            "kid": "31cb90e7adf14d62c40cb7d85d37d6ac",
-                            "key": "d100b18a1937455db4ca2b3dcb5bd317"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e5",
-                "sport": "f1",
-                "eventCat": "Motorsport",
-                "eventType": "Formula 1",
-                "eventName": "Formula 1",
-                "match": "Formula 1",
-                "teamA": "Formula 1",
-                "teamB": "Formula 1",
-                "startTime": "2026/07/17 11:30:40 +0000",
-                "streams": [
-                    {
-                        "sid": "e5s1",
-                        "title": "TSN SPORTS - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
-                        "drm": {
-                            "kid": "66e14add60c30be992503fa9a0ae5e20",
-                            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e5s2",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                        "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e5s12",
-                        "title": "ELEVEN SPORTS",
-                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-                        "drm": {
-                            "kid": "69021095220f3c0eae9bc24215fd692b",
-                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
                         },
                         "statusCode": 200
                     }
