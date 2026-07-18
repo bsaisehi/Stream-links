@@ -1,12 +1,12 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 38,
-        "cricketMatches": 2,
-        "f1Sessions": 0,
-        "totalMpdStreams": 3,
-        "deadStreamsSkipped": 13,
-        "timestamp": "2026-07-18T06:58:48.633Z",
+        "totalLiveEvents": 40,
+        "cricketMatches": 4,
+        "f1Sessions": 1,
+        "totalMpdStreams": 11,
+        "deadStreamsSkipped": 9,
+        "timestamp": "2026-07-18T10:33:06+00:00",
         "items": [
             {
                 "eid": "e1",
@@ -20,7 +20,7 @@
                 "startTime": "2026/07/19 10:30:36 +0000",
                 "streams": [
                     {
-                        "sid": "e1s1",
+                        "sid": "e7s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -30,7 +30,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e1s2",
+                        "sid": "e7s3",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -53,12 +53,131 @@
                 "startTime": "2026/07/19 14:00:03 +0000",
                 "streams": [
                     {
-                        "sid": "e2s4",
+                        "sid": "e9s2",
+                        "title": "FANCODE - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "drm": {
+                            "kid": "7e9239c1982d984a002df3ed049d0756",
+                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e9s6",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
                             "kid": "709c812e1b4174002605df1d17d34a4c",
                             "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
+                        },
+                        "statusCode": 200
+                    }
+                ]
+            },
+            {
+                "eid": "e3",
+                "sport": "cricket",
+                "eventCat": "Cricket",
+                "eventType": "Lanka Premier League",
+                "eventName": "Kandy Royals vs Dambulla Sixers",
+                "match": "Kandy Royals vs Dambulla Sixers",
+                "teamA": "Kandy Royals",
+                "teamB": "Dambulla Sixers",
+                "startTime": "2026/07/18 09:30:00 +0000",
+                "streams": [
+                    {
+                        "sid": "e10s1",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
+                        "drm": {
+                            "kid": "75f854d2c277ce9e3735817f9c6c77ad",
+                            "key": "9c4f93decc3c9a4065e8f4e09a3adecc"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e10s2",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
+                        "drm": {
+                            "kid": "75f854d2c277ce9e3735817f9c6c77ad",
+                            "key": "9c4f93decc3c9a4065e8f4e09a3adecc"
+                        },
+                        "statusCode": 200
+                    }
+                ]
+            },
+            {
+                "eid": "e4",
+                "sport": "cricket",
+                "eventCat": "Cricket",
+                "eventType": "T20 Blast",
+                "eventName": "Hampshire vs Nottinghamshire",
+                "match": "Hampshire vs Nottinghamshire",
+                "teamA": "Hampshire",
+                "teamB": "Nottinghamshire",
+                "startTime": "2026/07/18 13:30:00 +0000",
+                "streams": [
+                    {
+                        "sid": "e40s1",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
+                        "drm": {
+                            "kid": "9a98a0ff617487177711ccd3529a79d5",
+                            "key": "9b42b490dc0075cf94f51b226a779045"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e40s4",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
+                        "drm": {
+                            "kid": "9a98a0ff617487177711ccd3529a79d5",
+                            "key": "9b42b490dc0075cf94f51b226a779045"
+                        },
+                        "statusCode": 200
+                    }
+                ]
+            },
+            {
+                "eid": "e5",
+                "sport": "f1",
+                "eventCat": "Motorsport",
+                "eventType": "Formula 1",
+                "eventName": "Formula 1",
+                "match": "Formula 1",
+                "teamA": "Formula 1",
+                "teamB": "Formula 1",
+                "startTime": "2026/07/18 10:30:53 +0000",
+                "streams": [
+                    {
+                        "sid": "e5s1",
+                        "title": "FANCODE - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "drm": {
+                            "kid": "7e9239c1982d984a002df3ed049d0756",
+                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e5s8",
+                        "title": "ELEVEN SPORTS",
+                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+                        "drm": {
+                            "kid": "69021095220f3c0eae9bc24215fd692b",
+                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e5s9",
+                        "title": "TSN SPORTS - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
+                        "drm": {
+                            "kid": "66e14add60c30be992503fa9a0ae5e20",
+                            "key": "8c736ae52ce3cab1e918d5f9e8ed6c62"
                         },
                         "statusCode": 200
                     }
