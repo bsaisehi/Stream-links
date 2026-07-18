@@ -1,12 +1,12 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 41,
-        "cricketMatches": 4,
+        "totalLiveEvents": 40,
+        "cricketMatches": 3,
         "f1Sessions": 1,
-        "totalMpdStreams": 11,
+        "totalMpdStreams": 9,
         "deadStreamsSkipped": 9,
-        "timestamp": "2026-07-18T14:06:54+00:00",
+        "timestamp": "2026-07-18T17:54:30+00:00",
         "items": [
             {
                 "eid": "e1",
@@ -78,30 +78,30 @@
                 "eid": "e3",
                 "sport": "cricket",
                 "eventCat": "Cricket",
-                "eventType": "Lanka Premier League",
-                "eventName": "Galle Gallants vs Colombo Kaps",
-                "match": "Galle Gallants vs Colombo Kaps",
-                "teamA": "Galle Gallants",
-                "teamB": "Colombo Kaps",
-                "startTime": "2026/07/18 14:00:00 +0000",
+                "eventType": "T20 Blast Final",
+                "eventName": "Hampshire vs Northamptonshire",
+                "match": "Hampshire vs Northamptonshire",
+                "teamA": "Hampshire",
+                "teamB": "Northamptonshire",
+                "startTime": "2026/07/18 17:45:34 +0000",
                 "streams": [
                     {
-                        "sid": "e11s1",
+                        "sid": "e38s1",
                         "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
                         "drm": {
-                            "kid": "298a4628daaba71f86b9060520700539",
-                            "key": "ffccd30926b91d75e4a3aab097c64653"
+                            "kid": "c19c0062404ac30d42291fbfadba323e",
+                            "key": "6086d22b65e8e988f4b6da3e34a3e2c3"
                         },
                         "statusCode": 200
                     },
                     {
-                        "sid": "e11s2",
+                        "sid": "e38s4",
                         "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
                         "drm": {
-                            "kid": "298a4628daaba71f86b9060520700539",
-                            "key": "ffccd30926b91d75e4a3aab097c64653"
+                            "kid": "c19c0062404ac30d42291fbfadba323e",
+                            "key": "6086d22b65e8e988f4b6da3e34a3e2c3"
                         },
                         "statusCode": 200
                     }
@@ -109,39 +109,6 @@
             },
             {
                 "eid": "e4",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "T20 Blast",
-                "eventName": "Hampshire vs Nottinghamshire",
-                "match": "Hampshire vs Nottinghamshire",
-                "teamA": "Hampshire",
-                "teamB": "Nottinghamshire",
-                "startTime": "2026/07/18 13:30:00 +0000",
-                "streams": [
-                    {
-                        "sid": "e39s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfsnzvy7s3/out/v1/c2fcf46249134d43af165252bad98f5c/cenc.mpd",
-                        "drm": {
-                            "kid": "e3f90cc7280490c20a54405dfb0cf744",
-                            "key": "c5ef31239f2e9146de635ebf39f62466"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e39s4",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfsnzvy7s3/out/v1/c2fcf46249134d43af165252bad98f5c/cenc.mpd",
-                        "drm": {
-                            "kid": "e3f90cc7280490c20a54405dfb0cf744",
-                            "key": "c5ef31239f2e9146de635ebf39f62466"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e5",
                 "sport": "f1",
                 "eventCat": "Motorsport",
                 "eventType": "Formula 1",
@@ -149,10 +116,10 @@
                 "match": "Formula 1",
                 "teamA": "Formula 1",
                 "teamB": "Formula 1",
-                "startTime": "2026/07/18 14:00:06 +0000",
+                "startTime": "2026/07/19 13:00:55 +0000",
                 "streams": [
                     {
-                        "sid": "e5s1",
+                        "sid": "e4s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -162,7 +129,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e5s2",
+                        "sid": "e4s2",
                         "title": "TSN SPORTS - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
                         "drm": {
@@ -172,7 +139,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e5s10",
+                        "sid": "e4s12",
                         "title": "ELEVEN SPORTS",
                         "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
                         "drm": {
