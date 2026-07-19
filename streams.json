@@ -1,15 +1,48 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 40,
+        "totalLiveEvents": 36,
         "cricketMatches": 3,
         "f1Sessions": 1,
         "totalMpdStreams": 9,
-        "deadStreamsSkipped": 9,
-        "timestamp": "2026-07-18T17:54:30+00:00",
+        "deadStreamsSkipped": 7,
+        "timestamp": "2026-07-18T23:37:40+00:00",
         "items": [
             {
                 "eid": "e1",
+                "sport": "cricket",
+                "eventCat": "Cricket",
+                "eventType": "Major League Cricket Final",
+                "eventName": "Major League Cricket",
+                "match": "Major League vs Major League",
+                "teamA": "Major League",
+                "teamB": "Major League",
+                "startTime": "2026/07/18 23:30:28 +0000",
+                "streams": [
+                    {
+                        "sid": "e8s1",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
+                        "drm": {
+                            "kid": "613080a865a801eaf441ec5bc605b5e4",
+                            "key": "8ec1b70270472910e4aca31d16d1c5ea"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e8s3",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
+                        "drm": {
+                            "kid": "613080a865a801eaf441ec5bc605b5e4",
+                            "key": "8ec1b70270472910e4aca31d16d1c5ea"
+                        },
+                        "statusCode": 200
+                    }
+                ]
+            },
+            {
+                "eid": "e2",
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "Bangladesh in Zimbabwe, 3 T20I Series",
@@ -20,7 +53,7 @@
                 "startTime": "2026/07/19 10:30:36 +0000",
                 "streams": [
                     {
-                        "sid": "e8s1",
+                        "sid": "e9s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -30,7 +63,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e8s3",
+                        "sid": "e9s3",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -42,7 +75,7 @@
                 ]
             },
             {
-                "eid": "e2",
+                "eid": "e3",
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "One Day International",
@@ -53,7 +86,7 @@
                 "startTime": "2026/07/19 14:00:03 +0000",
                 "streams": [
                     {
-                        "sid": "e10s2",
+                        "sid": "e11s2",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -63,45 +96,12 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e10s6",
+                        "sid": "e11s6",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
                             "kid": "709c812e1b4174002605df1d17d34a4c",
                             "key": "0bbee6c9c20a0f065bf8369d54cbf83e"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e3",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "T20 Blast Final",
-                "eventName": "Hampshire vs Northamptonshire",
-                "match": "Hampshire vs Northamptonshire",
-                "teamA": "Hampshire",
-                "teamB": "Northamptonshire",
-                "startTime": "2026/07/18 17:45:34 +0000",
-                "streams": [
-                    {
-                        "sid": "e38s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
-                        "drm": {
-                            "kid": "c19c0062404ac30d42291fbfadba323e",
-                            "key": "6086d22b65e8e988f4b6da3e34a3e2c3"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e38s4",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
-                        "drm": {
-                            "kid": "c19c0062404ac30d42291fbfadba323e",
-                            "key": "6086d22b65e8e988f4b6da3e34a3e2c3"
                         },
                         "statusCode": 200
                     }
