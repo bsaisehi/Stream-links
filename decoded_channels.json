@@ -667,7 +667,7 @@
         }
     },
     "ZB": {
-        "ManifestURI": "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQ0Mjc7YWNsPS8qO3dzaWQ9OTI5MDAwNDUxOGQ0ODAwOWZhZWZlOWM0ODQyOGQ1ODVfZm94ZHRjX3dlYl9lbi1VUztobWFjPUdDamRocURuTHZoQ2Z5WlFFOFM0eW1NNDlsR1Nyc3pSL1lDQXJFQjN1Qnc9/live/tx001-ue2/index.m3u8",
+        "ManifestURI": "https://customer-0a9dy4lca44vp867.cloudflarestream.com/c1edfa5f0cfbfd070ca925c1aab08463/manifest/video.m3u8",
         "DRMKeys": {
             "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
         }
