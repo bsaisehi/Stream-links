@@ -1,12 +1,12 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 32,
+        "totalLiveEvents": 31,
         "cricketMatches": 4,
         "f1Sessions": 1,
-        "totalMpdStreams": 11,
-        "deadStreamsSkipped": 4,
-        "timestamp": "2026-07-19T10:29:34+00:00",
+        "totalMpdStreams": 12,
+        "deadStreamsSkipped": 8,
+        "timestamp": "2026-07-19T13:42:15.110Z",
         "items": [
             {
                 "eid": "e1",
@@ -20,7 +20,7 @@
                 "startTime": "2026/07/19 10:30:36 +0000",
                 "streams": [
                     {
-                        "sid": "e6s1",
+                        "sid": "e1s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -30,7 +30,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e6s3",
+                        "sid": "e1s2",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
@@ -53,7 +53,7 @@
                 "startTime": "2026/07/19 10:00:19 +0000",
                 "streams": [
                     {
-                        "sid": "e7s1",
+                        "sid": "e2s1",
                         "title": "WILLOW - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
                         "drm": {
@@ -63,7 +63,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e7s4",
+                        "sid": "e2s2",
                         "title": "WILLOW - ALT",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
                         "drm": {
@@ -86,17 +86,27 @@
                 "startTime": "2026/07/19 14:00:03 +0000",
                 "streams": [
                     {
-                        "sid": "e8s2",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "sid": "e3s1",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd",
                         "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                            "kid": "ecdf2f70c1d0df4187b2be76cce4e63d",
+                            "key": "38832d5c9796f7113fbd2ec6ba70f313"
                         },
                         "statusCode": 200
                     },
                     {
-                        "sid": "e8s6",
+                        "sid": "e3s2",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd",
+                        "drm": {
+                            "kid": "ecdf2f70c1d0df4187b2be76cce4e63d",
+                            "key": "38832d5c9796f7113fbd2ec6ba70f313"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e3s3",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -112,29 +122,29 @@
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "Lanka Premier League",
-                "eventName": "Dambulla Sixers vs Jaffna Kings",
-                "match": "Dambulla Sixers vs Jaffna Kings",
-                "teamA": "Dambulla Sixers",
-                "teamB": "Jaffna Kings",
-                "startTime": "2026/07/19 09:30:00 +0000",
+                "eventName": "Colombo Kaps vs Kandy Royals",
+                "match": "Colombo Kaps vs Kandy Royals",
+                "teamA": "Colombo Kaps",
+                "teamB": "Kandy Royals",
+                "startTime": "2026/07/19 14:00:00 +0000",
                 "streams": [
                     {
-                        "sid": "e15s1",
+                        "sid": "e4s1",
                         "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd",
                         "drm": {
-                            "kid": "287f5d409978b84086c6428b6acb73c1",
-                            "key": "bad025076475daec87e62ec1016e8cec"
+                            "kid": "c1781b18ef9a3a4455c4ada2bce6c670",
+                            "key": "c03d707bc916b280b457013dac5b2954"
                         },
                         "statusCode": 200
                     },
                     {
-                        "sid": "e15s2",
+                        "sid": "e4s2",
                         "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd",
                         "drm": {
-                            "kid": "287f5d409978b84086c6428b6acb73c1",
-                            "key": "bad025076475daec87e62ec1016e8cec"
+                            "kid": "c1781b18ef9a3a4455c4ada2bce6c670",
+                            "key": "c03d707bc916b280b457013dac5b2954"
                         },
                         "statusCode": 200
                     }
@@ -152,32 +162,32 @@
                 "startTime": "2026/07/19 13:00:55 +0000",
                 "streams": [
                     {
-                        "sid": "e5s1",
-                        "title": "FANCODE - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                        "sid": "e5s3",
+                        "title": "APPLE TV+ - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lnnce28adq/out/v1/47847083b5fc4ccbb01871ee331ad8f7/cenc.mpd",
                         "drm": {
-                            "kid": "7e9239c1982d984a002df3ed049d0756",
-                            "key": "1b8a17598129a3618535c8fb05f103fe"
+                            "kid": "9dc12b57addecba1a491e81edcbaad57",
+                            "key": "9fcf7fef82dcc6399cafdb6a96809310"
                         },
                         "statusCode": 200
                     },
                     {
-                        "sid": "e5s2",
-                        "title": "TSN SPORTS - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+                        "sid": "e5s4",
+                        "title": "SKY via APPLE TV",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zl03cuvpb2/out/v1/7c64c4d71fae4ba7b80952ad71ed1e36/cenc.mpd",
                         "drm": {
-                            "kid": "385ceb9714b75e0cef61254f80b31002",
-                            "key": "18dce92a2891fee68d21ede5173230f8"
+                            "kid": "51040efb59bf199bf09bcd79e4af435a",
+                            "key": "636de0aecb318b012f47eed0845f96df"
                         },
                         "statusCode": 200
                     },
                     {
-                        "sid": "e5s12",
-                        "title": "ELEVEN SPORTS",
-                        "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+                        "sid": "e5s7",
+                        "title": "APPLE TV - 4K",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pplmyagyhu/out/v1/6695d8753e6c4e318a0bc5c4a18de9b9/cenc.mpd",
                         "drm": {
-                            "kid": "69021095220f3c0eae9bc24215fd692b",
-                            "key": "eb58cfe0458ed0b48f7351fa3393ad59"
+                            "kid": "eb1e6c51646986a652498a57b458d1d2",
+                            "key": "1b278aeea7b8978fa574ad0eb52758a2"
                         },
                         "statusCode": 200
                     }
