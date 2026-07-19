@@ -1,48 +1,15 @@
 {
     "main": {
         "ok": true,
-        "totalLiveEvents": 36,
-        "cricketMatches": 3,
+        "totalLiveEvents": 32,
+        "cricketMatches": 4,
         "f1Sessions": 1,
-        "totalMpdStreams": 9,
-        "deadStreamsSkipped": 7,
-        "timestamp": "2026-07-18T23:37:40+00:00",
+        "totalMpdStreams": 11,
+        "deadStreamsSkipped": 4,
+        "timestamp": "2026-07-19T10:29:34+00:00",
         "items": [
             {
                 "eid": "e1",
-                "sport": "cricket",
-                "eventCat": "Cricket",
-                "eventType": "Major League Cricket Final",
-                "eventName": "Major League Cricket",
-                "match": "Major League vs Major League",
-                "teamA": "Major League",
-                "teamB": "Major League",
-                "startTime": "2026/07/18 23:30:28 +0000",
-                "streams": [
-                    {
-                        "sid": "e8s1",
-                        "title": "WILLOW - AQ",
-                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
-                        "drm": {
-                            "kid": "613080a865a801eaf441ec5bc605b5e4",
-                            "key": "8ec1b70270472910e4aca31d16d1c5ea"
-                        },
-                        "statusCode": 200
-                    },
-                    {
-                        "sid": "e8s3",
-                        "title": "WILLOW - ALT",
-                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
-                        "drm": {
-                            "kid": "613080a865a801eaf441ec5bc605b5e4",
-                            "key": "8ec1b70270472910e4aca31d16d1c5ea"
-                        },
-                        "statusCode": 200
-                    }
-                ]
-            },
-            {
-                "eid": "e2",
                 "sport": "cricket",
                 "eventCat": "Cricket",
                 "eventType": "Bangladesh in Zimbabwe, 3 T20I Series",
@@ -53,7 +20,7 @@
                 "startTime": "2026/07/19 10:30:36 +0000",
                 "streams": [
                     {
-                        "sid": "e9s1",
+                        "sid": "e6s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
                         "drm": {
@@ -63,12 +30,45 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e9s3",
+                        "sid": "e6s3",
                         "title": "FANCODE - LQ",
                         "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
                         "drm": {
                             "kid": "5689304538fa9f3bb3da99c939a2ad4f",
                             "key": "6907c88ed8ebdd35a2fa80b9684715e1"
+                        },
+                        "statusCode": 200
+                    }
+                ]
+            },
+            {
+                "eid": "e2",
+                "sport": "cricket",
+                "eventCat": "Cricket",
+                "eventType": "India in England, 3 ODI Series",
+                "eventName": "England vs India",
+                "match": "England vs India",
+                "teamA": "England",
+                "teamB": "India",
+                "startTime": "2026/07/19 10:00:19 +0000",
+                "streams": [
+                    {
+                        "sid": "e7s1",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
+                        "drm": {
+                            "kid": "5be2590ab12743d21a1d377d8b5e7900",
+                            "key": "ff08faff3b5d2c874b62ec09e2db888c"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e7s4",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
+                        "drm": {
+                            "kid": "5be2590ab12743d21a1d377d8b5e7900",
+                            "key": "ff08faff3b5d2c874b62ec09e2db888c"
                         },
                         "statusCode": 200
                     }
@@ -86,7 +86,7 @@
                 "startTime": "2026/07/19 14:00:03 +0000",
                 "streams": [
                     {
-                        "sid": "e11s2",
+                        "sid": "e8s2",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -96,7 +96,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e11s6",
+                        "sid": "e8s6",
                         "title": "FANCODE - LQ",
                         "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
                         "drm": {
@@ -109,6 +109,39 @@
             },
             {
                 "eid": "e4",
+                "sport": "cricket",
+                "eventCat": "Cricket",
+                "eventType": "Lanka Premier League",
+                "eventName": "Dambulla Sixers vs Jaffna Kings",
+                "match": "Dambulla Sixers vs Jaffna Kings",
+                "teamA": "Dambulla Sixers",
+                "teamB": "Jaffna Kings",
+                "startTime": "2026/07/19 09:30:00 +0000",
+                "streams": [
+                    {
+                        "sid": "e15s1",
+                        "title": "WILLOW - AQ",
+                        "stream": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd",
+                        "drm": {
+                            "kid": "287f5d409978b84086c6428b6acb73c1",
+                            "key": "bad025076475daec87e62ec1016e8cec"
+                        },
+                        "statusCode": 200
+                    },
+                    {
+                        "sid": "e15s2",
+                        "title": "WILLOW - ALT",
+                        "stream": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd",
+                        "drm": {
+                            "kid": "287f5d409978b84086c6428b6acb73c1",
+                            "key": "bad025076475daec87e62ec1016e8cec"
+                        },
+                        "statusCode": 200
+                    }
+                ]
+            },
+            {
+                "eid": "e5",
                 "sport": "f1",
                 "eventCat": "Motorsport",
                 "eventType": "Formula 1",
@@ -119,7 +152,7 @@
                 "startTime": "2026/07/19 13:00:55 +0000",
                 "streams": [
                     {
-                        "sid": "e4s1",
+                        "sid": "e5s1",
                         "title": "FANCODE - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
                         "drm": {
@@ -129,7 +162,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e4s2",
+                        "sid": "e5s2",
                         "title": "TSN SPORTS - AQ",
                         "stream": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
                         "drm": {
@@ -139,7 +172,7 @@
                         "statusCode": 200
                     },
                     {
-                        "sid": "e4s12",
+                        "sid": "e5s12",
                         "title": "ELEVEN SPORTS",
                         "stream": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
                         "drm": {
