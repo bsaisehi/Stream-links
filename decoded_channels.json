@@ -541,7 +541,7 @@
         }
     },
     "FOX4K": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
         "DRMKeys": {
             "1f68713028d439ec03be07f56c1d6213": "20093db6455160fffed4c394def3193d"
         }
@@ -667,9 +667,9 @@
         }
     },
     "ZB": {
-        "ManifestURI": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd",
+        "ManifestURI": "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQ0Mjc7YWNsPS8qO3dzaWQ9OTI5MDAwNDUxOGQ0ODAwOWZhZWZlOWM0ODQyOGQ1ODVfZm94ZHRjX3dlYl9lbi1VUztobWFjPUdDamRocURuTHZoQ2Z5WlFFOFM0eW1NNDlsR1Nyc3pSL1lDQXJFQjN1Qnc9/live/tx001-ue2/index.m3u8",
         "DRMKeys": {
-            "156df45e915859b5bcb0586c4edc8da8": "f2032a0a2ff59a2c0f2c609bf399e1d1"
+            "cb5eaea6d91fc8a702f154cefd69c976": "fd4b69623da596aac100e5722d8a1ca0"
         }
     },
     "ATV4K": {
