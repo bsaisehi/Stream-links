@@ -672,10 +672,10 @@
             "156df45e915859b5bcb0586c4edc8da8": "f2032a0a2ff59a2c0f2c609bf399e1d1"
         }
     },
-    "ZH": {
-        "ManifestURI": "https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd",
+    "ATV4K": {
+        "ManifestURI": "https://ABGII6KAAAAAAAAMCWAZ7QG5ICPPI.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pplmyagyhu/out/v1/6695d8753e6c4e318a0bc5c4a18de9b9/cenc.mpd",
         "DRMKeys": {
-            "b90a8e3b967f0a7505bc0e925853c62d": "def40d621397cf5fedb93884cf7eb3ef"
+            "eb1e6c51646986a652498a57b458d1d2": "1b278aeea7b8978fa574ad0eb52758a2"
         }
     }
 }
