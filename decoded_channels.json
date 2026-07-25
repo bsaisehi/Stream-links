@@ -673,9 +673,9 @@
         }
     },
     "ATV4K": {
-        "ManifestURI": "https://ABGII6KAAAAAAAAMCWAZ7QG5ICPPI.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pplmyagyhu/out/v1/6695d8753e6c4e318a0bc5c4a18de9b9/cenc.mpd",
+        "ManifestURI": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/36quqa9owg/out/v1/f453975438174f06bd0dd67244ff64d2/cenc.mpd",
         "DRMKeys": {
-            "eb1e6c51646986a652498a57b458d1d2": "1b278aeea7b8978fa574ad0eb52758a2"
+            "8e95635a8a3d0f4fae2d1da930730d93": "a2217b3f397502e5978bf9ab1d8fc610"
         }
     }
 }
