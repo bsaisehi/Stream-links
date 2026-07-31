@@ -444,15 +444,9 @@
         }
     },
     "DS": {
-        "ManifestURI": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
         "DRMKeys": {
-            "f8b207c10f3f76aeba32a360ec52b9e4": "afad49d20eb39670e93e371c1d669921"
-        }
-    },
-    "UTV1": {
-        "ManifestURI": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
-        "DRMKeys": {
-            "10e2114398744f3880cc96653568da55": "d6d40441f9fbebea03ec64c4aea7211f"
+            "f836853d8eac19446ed9535f5fc568b1": "b3bc5ef00602b29abac7e482d3d9fbf3"
         }
     },
     "UTV2": {
