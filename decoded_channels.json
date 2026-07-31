@@ -444,15 +444,9 @@
         }
     },
     "DS": {
-        "ManifestURI": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "ManifestURI": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
         "DRMKeys": {
             "f836853d8eac19446ed9535f5fc568b1": "b3bc5ef00602b29abac7e482d3d9fbf3"
-        }
-    },
-    "UTV2": {
-        "ManifestURI": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa2)/master.mpd",
-        "DRMKeys": {
-            "60a3773de4054a9680d6ca2277870a97": "0ed58cdb97aaa8efba47b865ea7e8958"
         }
     },
     "UTV3": {
