@@ -155,6 +155,12 @@
             "7995c724a13748ed970840a8ab5bb9b3": "67bdaf1e2175b9ff682fcdf0e2354b1e"
         }
     },
+    "BEIN2": {
+        "ManifestURI": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "DRMKeys": {
+            "0b42be2664d7e811d04f3e504e0924c5": "ae24090123b8c72ac5404dc152847cb8"
+        }
+    },
     "BEIN1": {
         "ManifestURI": "https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
         "DRMKeys": {
